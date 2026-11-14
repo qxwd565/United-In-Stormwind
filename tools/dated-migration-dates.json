@@ -1,0 +1,23 @@
+{
+  "prefixes": {
+    "SW": {
+      "date": "2021-08-04",
+      "status": "verified"
+    },
+    "DED": {
+      "date": "2021-11-03",
+      "status": "verified"
+    }
+  },
+  "cards": {
+    "SW_079": {
+      "date": "2021-07-02",
+      "status": "verified"
+    }
+  },
+  "sources": {
+    "SW": "https://hearthstone.blizzard.com/ko-kr/news/23689677",
+    "DED": "https://hearthstone.blizzard.com/ko-kr/news/23740124",
+    "SW_079": "https://hearthstone.blizzard.com/ko-kr/news/23689677"
+  }
+}
