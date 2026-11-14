@@ -1,1 +1,73 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_428t4","dbfId":67884,"name":"강인한 거프","type":"MINION","cardClass":"DRUID","collectible":false,"cost":5,"text":"<b>도발</b>, <b>전투의 함성:</b>\n이번 턴에 내 영웅에게\n공격력을 +8 부여합니다. 방어도를 +8 얻습니다.","attack":8,"health":8,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS23-184_M.tif:906fa091a2b4474090ad84c688d6048f","set":"STORMWIND","nativeTags":[{"id":45,"name":"생명력","value":8},{"id":47,"name":"공격력","value":8},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":1},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":2},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":218,"name":"전투의 함성","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/SW_428t4.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-184_M.tif:906fa091a2b4474090ad84c688d6048f","goldenMaterial":"SW_428t4_PremiumCard.mat:7e2c25d9e9828e6409aa9e3e76ec2eee","goldenAnimation":"SW_428t4_PremiumCard.asset:5c8131e77f38c3444ba3e2ce8bfd3d5b"}}
+{
+  "2021-08-04": {
+    "id": "SW_428t4",
+    "dbfId": 67884,
+    "name": "강인한 거프",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "collectible": false,
+    "cost": 5,
+    "text": "<b>도발</b>, <b>전투의 함성:</b><br></br>이번 턴에 내 영웅에게<br></br>공격력을 +8 부여합니다. 방어도를 +8 얻습니다.",
+    "attack": 8,
+    "health": 8,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS23-184_M.tif:906fa091a2b4474090ad84c688d6048f",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 8
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 8
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/SW_428t4.png"
+  }
+}

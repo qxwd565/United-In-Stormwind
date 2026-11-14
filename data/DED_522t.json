@@ -1,1 +1,66 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DED_522t","dbfId":66679,"name":"쿠키의 거품기","type":"WEAPON","cardClass":"SHAMAN","collectible":false,"cost":3,"text":"<b>생명력 흡수</b>","attack":2,"health":0,"durability":3,"armor":0,"flavor":"","spellSchool":"","portrait":"HS23-137_W.tif:72bfd3b85bc44530b31c5687d4ffba27","set":"STORMWIND","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":3},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":8},{"id":202,"name":"카드 유형","value":7},{"id":685,"name":"생명력 흡수","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/DED_522t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-137_W.tif:72bfd3b85bc44530b31c5687d4ffba27","goldenMaterial":"DED_522t_PremiumCard.mat:91bc38ba4ae026c4f965b293621bf7d7","goldenAnimation":"DED_522t_PremiumCard.asset:daee1467a0325a44d99b4dde3b29cd9c"}}
+{
+  "2021-11-03": {
+    "id": "DED_522t",
+    "dbfId": 66679,
+    "name": "쿠키의 거품기",
+    "type": "WEAPON",
+    "cardClass": "SHAMAN",
+    "collectible": false,
+    "cost": 3,
+    "text": "<b>생명력 흡수</b>",
+    "attack": 2,
+    "health": 0,
+    "durability": 3,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS23-137_W.tif:72bfd3b85bc44530b31c5687d4ffba27",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 7
+      },
+      {
+        "id": 685,
+        "name": "생명력 흡수",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DED_522t.png"
+  }
+}

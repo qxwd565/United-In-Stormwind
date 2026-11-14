@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DED_519","dbfId":65692,"name":"데피아즈단 포병","type":"MINION","cardClass":"WARRIOR","rarity":"COMMON","collectible":true,"cost":3,"text":"내 영웅이 공격한 후에 무작위 적에게\n피해를 2 줍니다. 2번 발동합니다.","attack":3,"health":3,"durability":0,"armor":0,"flavor":"\"... 셋.\"","spellSchool":"","portrait":"HS23-158_M.tif:2787544d46df4c0391a597cf372d25ee","set":"STORMWIND","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":10},{"id":200,"name":"종족","value":23},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":["PIRATE"],"race":"해적","classes":[],"art":"art/DED_519.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-158_M.tif:2787544d46df4c0391a597cf372d25ee","goldenMaterial":"DED_519_PremiumCard.mat:664517c60375bab42a778f0de23e88c4","goldenAnimation":"DED_519_PremiumCard.asset:6af6a6f4faeeb2949be5dbd49a06a101"}}
+{
+  "2021-11-03": {
+    "id": "DED_519",
+    "dbfId": 65692,
+    "name": "데피아즈단 포병",
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "내 영웅이 공격한 후에 무작위 적에게<br></br>피해를 2 줍니다. 2번 발동합니다.",
+    "attack": 3,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"... 셋.\"",
+    "spellSchool": "",
+    "portrait": "HS23-158_M.tif:2787544d46df4c0391a597cf372d25ee",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 23
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [
+      "PIRATE"
+    ],
+    "race": "해적",
+    "classes": [],
+    "art": "art/DED_519.png"
+  }
+}

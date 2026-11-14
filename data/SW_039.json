@@ -1,1 +1,97 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_039","dbfId":64375,"name":"최후의 결전","type":"SPELL","cardClass":"DEMONHUNTER","rarity":"LEGENDARY","collectible":true,"cost":1,"text":"<b>퀘스트 전개:</b> 한 턴에 카드를\n4장 뽑아야 합니다.\n<b>보상:</b> 뽑은 카드들의 비용이\n(1) 감소합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"최후의 결전을 시이자아아악~~~~~~~ 하겠습니다!","spellSchool":"","portrait":"HS23-072_S.tif:a868aba931884b8cb3d0ec457ba1b1ca","set":"STORMWIND","nativeTags":[{"id":2,"name":"효과 수치 1","value":0},{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":14},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":5},{"id":321,"name":"수집 가능","value":1},{"id":535,"name":"퀘스트 완료 조건","value":4},{"id":676,"name":"무작위 선택 제외","value":1},{"id":839,"name":"게임 태그 839","value":1},{"id":1089,"name":"퀘스트 보상 데이터베이스 ID","value":64376},{"id":1725,"name":"퀘스트 전개","value":1},{"id":1992,"name":"퀘스트 전개 최종 보상 ID","value":67541},{"id":1993,"name":"퀘스트 전개 단계","value":1}],"races":[],"race":"","classes":[],"art":"art/SW_039.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-072_S.tif:a868aba931884b8cb3d0ec457ba1b1ca","goldenMaterial":"SW_039_PremiumCard.mat:32d0224cd12e97f4fb095ef333c0a1fe","goldenAnimation":"SW_039_PremiumCard.asset:926ff519adb49df44a93eacf439b94fa"}}
+{
+  "2021-08-04": {
+    "id": "SW_039",
+    "dbfId": 64375,
+    "name": "최후의 결전",
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>퀘스트 전개:</b> 한 턴에 카드를<br></br>4장 뽑아야 합니다.<br></br><b>보상:</b> 뽑은 카드들의 비용이<br></br>(1) 감소합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "최후의 결전을 시이자아아악~~~~~~~ 하겠습니다!",
+    "spellSchool": "",
+    "portrait": "HS23-072_S.tif:a868aba931884b8cb3d0ec457ba1b1ca",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 0
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 535,
+        "name": "퀘스트 완료 조건",
+        "value": 4
+      },
+      {
+        "id": 676,
+        "name": "무작위 선택 제외",
+        "value": 1
+      },
+      {
+        "id": 839,
+        "name": "게임 태그 839",
+        "value": 1
+      },
+      {
+        "id": 1089,
+        "name": "퀘스트 보상 데이터베이스 ID",
+        "value": 64376
+      },
+      {
+        "id": 1725,
+        "name": "퀘스트 전개",
+        "value": 1
+      },
+      {
+        "id": 1992,
+        "name": "퀘스트 전개 최종 보상 ID",
+        "value": 67541
+      },
+      {
+        "id": 1993,
+        "name": "퀘스트 전개 단계",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_039.png"
+  }
+}

@@ -1,1 +1,87 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_433t","dbfId":64350,"name":"공허의 파편 발견","type":"SPELL","cardClass":"PRIEST","rarity":"LEGENDARY","collectible":false,"cost":1,"text":"<b>퀘스트 전개:</b> 비용이 5,\n6인 카드를 내야합니다.\n<b>보상:</b> 내 덱에서\n카드를 <b>발견</b>합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS23-140_S.tif:8846ebed540341389a0bb908db21086a","set":"STORMWIND","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":5},{"id":415,"name":"발견","value":1},{"id":535,"name":"퀘스트 완료 조건","value":2},{"id":684,"name":"비용 숨김","value":1},{"id":1089,"name":"퀘스트 보상 데이터베이스 ID","value":64352},{"id":1342,"name":"발견 시각 효과","value":1},{"id":1725,"name":"퀘스트 전개","value":1},{"id":1993,"name":"퀘스트 전개 단계","value":2}],"races":[],"race":"","classes":[],"art":"art/SW_433t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-140_S.tif:8846ebed540341389a0bb908db21086a","goldenMaterial":"SW_433t_PremiumCard.mat:145d3a51885ea8144a180e16ce13daee","goldenAnimation":"SW_433t_PremiumCard.asset:512ec28648a46dd4283a6774c6dd764c"}}
+{
+  "2021-08-04": {
+    "id": "SW_433t",
+    "dbfId": 64350,
+    "name": "공허의 파편 발견",
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "rarity": "LEGENDARY",
+    "collectible": false,
+    "cost": 1,
+    "text": "<b>퀘스트 전개:</b> 비용이 5,<br></br>6인 카드를 내야합니다.<br></br><b>보상:</b> 내 덱에서<br></br>카드를 <b>발견</b>합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS23-140_S.tif:8846ebed540341389a0bb908db21086a",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 535,
+        "name": "퀘스트 완료 조건",
+        "value": 2
+      },
+      {
+        "id": 684,
+        "name": "비용 숨김",
+        "value": 1
+      },
+      {
+        "id": 1089,
+        "name": "퀘스트 보상 데이터베이스 ID",
+        "value": 64352
+      },
+      {
+        "id": 1342,
+        "name": "발견 시각 효과",
+        "value": 1
+      },
+      {
+        "id": 1725,
+        "name": "퀘스트 전개",
+        "value": 1
+      },
+      {
+        "id": 1993,
+        "name": "퀘스트 전개 단계",
+        "value": 2
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_433t.png"
+  }
+}

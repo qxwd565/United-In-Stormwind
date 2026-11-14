@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_012","dbfId":63732,"name":"어둠 깃든 옷감용 바늘","type":"WEAPON","cardClass":"PRIEST","rarity":"RARE","collectible":true,"cost":1,"text":"내가 암흑 주문을 시전한 후에, 모든 적에게 피해를 1 주고 내구도를 1 잃습니다.","attack":0,"health":0,"durability":3,"armor":0,"flavor":"검은 옷을 수선할 때 더욱 효과적입니다.","spellSchool":"","portrait":"HS23-138_W.tif:6900035c255f447eab79c306f15e3495","set":"STORMWIND","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":3},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":7},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/SW_012.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-138_W.tif:6900035c255f447eab79c306f15e3495","goldenMaterial":"SW_012_PremiumCard.mat:6c92fc9e5590d8a44b76ff2dd8fcb4af","goldenAnimation":"SW_012_PremiumCard.asset:6db3a073d50ce0b438f3abc98f08f0c5"}}
+{
+  "2021-08-04": {
+    "id": "SW_012",
+    "dbfId": 63732,
+    "name": "어둠 깃든 옷감용 바늘",
+    "type": "WEAPON",
+    "cardClass": "PRIEST",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 1,
+    "text": "내가 암흑 주문을 시전한 후에, 모든 적에게 피해를 1 주고 내구도를 1 잃습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 3,
+    "armor": 0,
+    "flavor": "검은 옷을 수선할 때 더욱 효과적입니다.",
+    "spellSchool": "",
+    "portrait": "HS23-138_W.tif:6900035c255f447eab79c306f15e3495",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 7
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_012.png"
+  }
+}

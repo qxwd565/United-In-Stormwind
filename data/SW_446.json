@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_446","dbfId":64429,"name":"공허에 물든 수행원","type":"MINION","cardClass":"PRIEST","rarity":"EPIC","collectible":true,"cost":2,"text":"각 영웅이 받는 모든 피해가 1씩 증가합니다.","attack":1,"health":3,"durability":0,"armor":0,"flavor":"공허에 함부로 손대지 마십시오. 무슨 일이 벌어질지 모릅니다.","spellSchool":"","portrait":"HS23-044_M.tif:ff8b5cc9901f49b597e44378d6fb07cd","set":"STORMWIND","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":362,"name":"지속 효과","value":1}],"races":[],"race":"","classes":[],"art":"art/SW_446.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-044_M.tif:ff8b5cc9901f49b597e44378d6fb07cd","goldenMaterial":"SW_446_PremiumCard.mat:588d22f464ca399499d78359a6b1d1a4","goldenAnimation":"SW_446_PremiumCard.asset:2b96cc5a2aaaba1448708cc6b3bb171f"}}
+{
+  "2021-08-04": {
+    "id": "SW_446",
+    "dbfId": 64429,
+    "name": "공허에 물든 수행원",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 2,
+    "text": "각 영웅이 받는 모든 피해가 1씩 증가합니다.",
+    "attack": 1,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "공허에 함부로 손대지 마십시오. 무슨 일이 벌어질지 모릅니다.",
+    "spellSchool": "",
+    "portrait": "HS23-044_M.tif:ff8b5cc9901f49b597e44378d6fb07cd",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 362,
+        "name": "지속 효과",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_446.png"
+  }
+}

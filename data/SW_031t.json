@@ -1,1 +1,87 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_031t","dbfId":64323,"name":"바위 일으키기","type":"SPELL","cardClass":"SHAMAN","rarity":"LEGENDARY","collectible":false,"cost":1,"text":"<b>퀘스트 전개:</b> <b>과부하</b> 카드를\n3장 내야 합니다.\n<b>보상:</b> <b>도발</b> 능력이 있는\n3/3 정령을 소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS23-130_S.tif:c2e540aecb8445a384186c2bb3d0bd64","set":"STORMWIND","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":1},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":8},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":5},{"id":215,"name":"과부하","value":1},{"id":535,"name":"퀘스트 완료 조건","value":3},{"id":684,"name":"비용 숨김","value":1},{"id":1089,"name":"퀘스트 보상 데이터베이스 ID","value":64324},{"id":1725,"name":"퀘스트 전개","value":1},{"id":1993,"name":"퀘스트 전개 단계","value":2}],"races":[],"race":"","classes":[],"art":"art/SW_031t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-130_S.tif:c2e540aecb8445a384186c2bb3d0bd64","goldenMaterial":"SW_031t_PremiumCard.mat:d2051f035c355ff4c9292f691e6c2426","goldenAnimation":"SW_031t_PremiumCard.asset:993e4fe7874f0ab4bb5cb6116438e220"}}
+{
+  "2021-08-04": {
+    "id": "SW_031t",
+    "dbfId": 64323,
+    "name": "바위 일으키기",
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "rarity": "LEGENDARY",
+    "collectible": false,
+    "cost": 1,
+    "text": "<b>퀘스트 전개:</b> <b>과부하</b> 카드를<br></br>3장 내야 합니다.<br></br><b>보상:</b> <b>도발</b> 능력이 있는<br></br>3/3 정령을 소환합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS23-130_S.tif:c2e540aecb8445a384186c2bb3d0bd64",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 215,
+        "name": "과부하",
+        "value": 1
+      },
+      {
+        "id": 535,
+        "name": "퀘스트 완료 조건",
+        "value": 3
+      },
+      {
+        "id": 684,
+        "name": "비용 숨김",
+        "value": 1
+      },
+      {
+        "id": 1089,
+        "name": "퀘스트 보상 데이터베이스 ID",
+        "value": 64324
+      },
+      {
+        "id": 1725,
+        "name": "퀘스트 전개",
+        "value": 1
+      },
+      {
+        "id": 1993,
+        "name": "퀘스트 전개 단계",
+        "value": 2
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_031t.png"
+  }
+}

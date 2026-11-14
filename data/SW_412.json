@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_412","dbfId":64033,"name":"SI:7 갈취","type":"SPELL","cardClass":"ROGUE","rarity":"RARE","collectible":true,"cost":1,"text":"<b>교환성</b>\n피해를 받지 않은 캐릭터에게 피해를 $3 줍니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"\"세상이 그렇게 호락호락한 줄 알아? 만에 하나 사고라도 당하면 감당할 수 있겠어?\"","spellSchool":"","portrait":"HS23-102_S.tif:b74b2e0e4049457cb5f1ecb347b1d4e2","set":"STORMWIND","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":1678,"name":"게임 태그 1678","value":1},{"id":1720,"name":"교환성","value":1},{"id":1743,"name":"덱 행동 비용","value":1}],"races":[],"race":"","classes":[],"art":"art/SW_412.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-102_S.tif:b74b2e0e4049457cb5f1ecb347b1d4e2","goldenMaterial":"SW_412_PremiumCard.mat:64a9343458d7998489d126313ee2c440","goldenAnimation":"SW_412_PremiumCard.asset:970d7ede099d7ff46b656523e5299265"}}
+{
+  "2021-08-04": {
+    "id": "SW_412",
+    "dbfId": 64033,
+    "name": "SI:7 갈취",
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>교환성</b><br></br>피해를 받지 않은 캐릭터에게 피해를 $3 줍니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"세상이 그렇게 호락호락한 줄 알아? 만에 하나 사고라도 당하면 감당할 수 있겠어?\"",
+    "spellSchool": "",
+    "portrait": "HS23-102_S.tif:b74b2e0e4049457cb5f1ecb347b1d4e2",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1678,
+        "name": "게임 태그 1678",
+        "value": 1
+      },
+      {
+        "id": 1720,
+        "name": "교환성",
+        "value": 1
+      },
+      {
+        "id": 1743,
+        "name": "덱 행동 비용",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_412.png"
+  }
+}

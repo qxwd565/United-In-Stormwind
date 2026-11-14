@@ -1,1 +1,63 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_432t","dbfId":64347,"name":"거프의 코도","type":"MINION","cardClass":"DRUID","collectible":false,"cost":3,"text":"<b>속공</b>","attack":4,"health":2,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS23-021_M.tif:e2c4fec41daa40b083893c11fbaefbf2","set":"STORMWIND","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":2},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":791,"name":"속공","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/SW_432t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-021_M.tif:e2c4fec41daa40b083893c11fbaefbf2","goldenMaterial":"SW_432t_PremiumCard.mat:670e6e3152a399c4394671bb4ae55ff7","goldenAnimation":"SW_432t_PremiumCard.asset:7f066d0c311a0f349b935fbd493a2f21"}}
+{
+  "2021-08-04": {
+    "id": "SW_432t",
+    "dbfId": 64347,
+    "name": "거프의 코도",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "collectible": false,
+    "cost": 3,
+    "text": "<b>속공</b>",
+    "attack": 4,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS23-021_M.tif:e2c4fec41daa40b083893c11fbaefbf2",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/SW_432t.png"
+  }
+}

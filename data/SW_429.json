@@ -1,1 +1,82 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_429","dbfId":64292,"name":"최고의 등껍질","type":"SPELL","cardClass":"DRUID","rarity":"COMMON","collectible":true,"cost":6,"text":"<b>교환성</b>\n<b>도발</b> 능력이 있는 2/7 거북을 둘 소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"다른 항목은 다 만점인데, 빨리 달리기만 점수가 좀 낮네요.","spellSchool":"","portrait":"HS23-179_S.tif:0085ae6c5a854a7984a64a1c140a5d80","set":"STORMWIND","nativeTags":[{"id":48,"name":"마나 비용","value":6},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":70124},{"id":1720,"name":"교환성","value":1},{"id":1743,"name":"덱 행동 비용","value":1}],"races":[],"race":"","classes":[],"art":"art/SW_429.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-179_S.tif:0085ae6c5a854a7984a64a1c140a5d80","goldenMaterial":"SW_429_PremiumCard.mat:d43abbb8f6d56be459c9edf0c1d95c87","goldenAnimation":"SW_429_PremiumCard.asset:5edf695c5f44bbf48a27aade86b913a4"}}
+{
+  "2021-08-04": {
+    "id": "SW_429",
+    "dbfId": 64292,
+    "name": "최고의 등껍질",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>교환성</b><br></br><b>도발</b> 능력이 있는 2/7 거북을 둘 소환합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "다른 항목은 다 만점인데, 빨리 달리기만 점수가 좀 낮네요.",
+    "spellSchool": "",
+    "portrait": "HS23-179_S.tif:0085ae6c5a854a7984a64a1c140a5d80",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 70124
+      },
+      {
+        "id": 1720,
+        "name": "교환성",
+        "value": 1
+      },
+      {
+        "id": 1743,
+        "name": "덱 행동 비용",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_429.png"
+  }
+}

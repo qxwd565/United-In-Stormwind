@@ -1,1 +1,61 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_031t7","dbfId":67752,"name":"폭풍소환사 브루칸","type":"MINION","cardClass":"SHAMAN","collectible":false,"cost":5,"text":"<b>전투의 함성:</b> 이번 게임 동안 내 주문들이 두 번 시전됩니다.","attack":7,"health":7,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS23-132_M.tif:9cc5af8a2e9a4bfeb3ef4c748d8425da","set":"STORMWIND","nativeTags":[{"id":45,"name":"생명력","value":7},{"id":47,"name":"공격력","value":7},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":8},{"id":202,"name":"카드 유형","value":4},{"id":218,"name":"전투의 함성","value":1}],"races":[],"race":"","classes":[],"art":"art/SW_031t7.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-132_M.tif:9cc5af8a2e9a4bfeb3ef4c748d8425da","goldenMaterial":"SW_031t7_PremiumCard.mat:1802f062d0200a64faad4d477abdbc08","goldenAnimation":"SW_031t7_PremiumCard.asset:7e99a386fdf0751408628ab719dbc2d8"}}
+{
+  "2021-08-04": {
+    "id": "SW_031t7",
+    "dbfId": 67752,
+    "name": "폭풍소환사 브루칸",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "collectible": false,
+    "cost": 5,
+    "text": "<b>전투의 함성:</b> 이번 게임 동안 내 주문들이 두 번 시전됩니다.",
+    "attack": 7,
+    "health": 7,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS23-132_M.tif:9cc5af8a2e9a4bfeb3ef4c748d8425da",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 7
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 7
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_031t7.png"
+  }
+}

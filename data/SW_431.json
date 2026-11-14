@@ -1,1 +1,94 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_431","dbfId":64337,"name":"공원 표범","type":"MINION","cardClass":"DRUID","rarity":"RARE","collectible":true,"cost":4,"text":"<b>속공</b>, 이 하수인이 공격할\n때마다 이번 턴에 내 영웅에게\n공격력을 +3 부여합니다.","attack":4,"health":4,"durability":0,"armor":0,"flavor":"공원 표범을 포획하려고 엽사들을 불렀지만, 아무 소용 없었습니다.","spellSchool":"","portrait":"HS23-177_M.tif:760531a2670343f6999fc8efb156afe4","set":"STORMWIND","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":2},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":791,"name":"속공","value":1},{"id":1584,"name":"게임 태그 1584","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/SW_431.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-177_M.tif:760531a2670343f6999fc8efb156afe4","goldenMaterial":"SW_431_PremiumCard.mat:7c62fe55ac3d47043a700d7360cf243f","goldenAnimation":"SW_431_PremiumCard.asset:41281e9b627b20b49bd45d539567d90e"}}
+{
+  "2021-08-04": {
+    "id": "SW_431",
+    "dbfId": 64337,
+    "name": "공원 표범",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>속공</b>, 이 하수인이 공격할<br></br>때마다 이번 턴에 내 영웅에게<br></br>공격력을 +3 부여합니다.",
+    "attack": 4,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "공원 표범을 포획하려고 엽사들을 불렀지만, 아무 소용 없었습니다.",
+    "spellSchool": "",
+    "portrait": "HS23-177_M.tif:760531a2670343f6999fc8efb156afe4",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 1584,
+        "name": "게임 태그 1584",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/SW_431.png"
+  }
+}

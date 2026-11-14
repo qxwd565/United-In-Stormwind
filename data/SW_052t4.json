@@ -1,1 +1,41 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_052t4","dbfId":66408,"name":"번쩍펑 방해 장치","type":"SPELL","cardClass":"ROGUE","collectible":false,"cost":1,"text":"적 하수인을 주인의 손으로 돌려보냅니다. 그 하수인은 다음 턴에 낼 수 없습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS23-109_S.tif:cfd2b8d387714457870742999e68c2cf","set":"STORMWIND","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":5}],"races":[],"race":"","classes":[],"art":"art/SW_052t4.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-109_S.tif:cfd2b8d387714457870742999e68c2cf","goldenMaterial":"SW_052t4_PremiumCard.mat:3126084905ec688448286ef1654adf7a","goldenAnimation":"SW_052t4_PremiumCard.asset:41e49429e60fa3d4aabc29064a8a1338"}}
+{
+  "2021-08-04": {
+    "id": "SW_052t4",
+    "dbfId": 66408,
+    "name": "번쩍펑 방해 장치",
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "collectible": false,
+    "cost": 1,
+    "text": "적 하수인을 주인의 손으로 돌려보냅니다. 그 하수인은 다음 턴에 낼 수 없습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS23-109_S.tif:cfd2b8d387714457870742999e68c2cf",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_052t4.png"
+  }
+}

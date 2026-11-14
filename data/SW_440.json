@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_440","dbfId":64390,"name":"죽음의 손짓","type":"SPELL","cardClass":"PRIEST","rarity":"EPIC","collectible":true,"cost":1,"text":"<b>죽음의 메아리</b> 하수인을 <b>발견</b>합니다.\n그 하수인을 낼 마나가 있다면,\n그 하수인의 <b>죽음의 메아리</b>를 발동시킵니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"강령술은 죽은 자들에게 동기부여가 됩니다.","spellSchool":"SHADOW","portrait":"HS23-139_S.tif:4124c3a2cdfe464984aa4f9ff59ea48a","set":"STORMWIND","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":415,"name":"발견","value":1},{"id":1342,"name":"발견 시각 효과","value":1},{"id":1635,"name":"주문 속성","value":6}],"races":[],"race":"","classes":[],"art":"art/SW_440.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-139_S.tif:4124c3a2cdfe464984aa4f9ff59ea48a","goldenMaterial":"SW_440_PremiumCard.mat:2d048745ef2ab7641ba7f7650b2362ea","goldenAnimation":"SW_440_PremiumCard.asset:a089343538ba02646abca5b0cb22efd6"}}
+{
+  "2021-08-04": {
+    "id": "SW_440",
+    "dbfId": 64390,
+    "name": "죽음의 손짓",
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>죽음의 메아리</b> 하수인을 <b>발견</b>합니다.<br></br>그 하수인을 낼 마나가 있다면,<br></br>그 하수인의 <b>죽음의 메아리</b>를 발동시킵니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "강령술은 죽은 자들에게 동기부여가 됩니다.",
+    "spellSchool": "SHADOW",
+    "portrait": "HS23-139_S.tif:4124c3a2cdfe464984aa4f9ff59ea48a",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1342,
+        "name": "발견 시각 효과",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_440.png"
+  }
+}

@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_084","dbfId":64893,"name":"혈속박 임프","type":"MINION","cardClass":"WARLOCK","rarity":"COMMON","collectible":true,"cost":2,"text":"이 하수인이 공격할 때마다 내 영웅에게 피해를 2 줍니다.","attack":2,"health":5,"durability":0,"armor":0,"flavor":"이용 약관을 꼭 읽으세요.","spellSchool":"","portrait":"HS23-008_M.tif:98a7088cfbfc4adeabb1d7f6662d8d3f","set":"STORMWIND","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":9},{"id":200,"name":"종족","value":15},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1965,"name":"임프","value":1}],"races":["DEMON"],"race":"악마","classes":[],"art":"art/SW_084.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-008_M.tif:98a7088cfbfc4adeabb1d7f6662d8d3f","goldenMaterial":"SW_084_PremiumCard.mat:d40abbe7134fc594fbe2a9deb18c580f","goldenAnimation":"SW_084_PremiumCard.asset:435c28d4306ca1842a34cbc6ca7d7d13"}}
+{
+  "2021-08-04": {
+    "id": "SW_084",
+    "dbfId": 64893,
+    "name": "혈속박 임프",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "이 하수인이 공격할 때마다 내 영웅에게 피해를 2 줍니다.",
+    "attack": 2,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "이용 약관을 꼭 읽으세요.",
+    "spellSchool": "",
+    "portrait": "HS23-008_M.tif:98a7088cfbfc4adeabb1d7f6662d8d3f",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 15
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1965,
+        "name": "임프",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DEMON"
+    ],
+    "race": "악마",
+    "classes": [],
+    "art": "art/SW_084.png"
+  }
+}

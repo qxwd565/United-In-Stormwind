@@ -1,1 +1,63 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_052t5","dbfId":66411,"name":"첩보로봇","type":"MINION","cardClass":"ROGUE","collectible":false,"cost":1,"text":"<b>전투의 함성:</b> 상대편의 덱에\n있는 카드 3장을 봅니다.\n1장을 선택하여 상대편의 덱\n맨 위에 놓습니다.","attack":3,"health":2,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS23-110_M.tif:f611cf78499d4618afd8ca893bd0d0b7","set":"STORMWIND","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":7},{"id":200,"name":"종족","value":17},{"id":202,"name":"카드 유형","value":4},{"id":218,"name":"전투의 함성","value":1}],"races":["MECHANICAL"],"race":"기계","classes":[],"art":"art/SW_052t5.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-110_M.tif:f611cf78499d4618afd8ca893bd0d0b7","goldenMaterial":"SW_052t5_PremiumCard.mat:cca2da36d923b0548b967d2edb5da300","goldenAnimation":"SW_052t5_PremiumCard.asset:9f7b8b5aa68f1f04f82d8045422b4d9a"}}
+{
+  "2021-08-04": {
+    "id": "SW_052t5",
+    "dbfId": 66411,
+    "name": "첩보로봇",
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "collectible": false,
+    "cost": 1,
+    "text": "<b>전투의 함성:</b> 상대편의 덱에<br></br>있는 카드 3장을 봅니다.<br></br>1장을 선택하여 상대편의 덱<br></br>맨 위에 놓습니다.",
+    "attack": 3,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS23-110_M.tif:f611cf78499d4618afd8ca893bd0d0b7",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/SW_052t5.png"
+  }
+}

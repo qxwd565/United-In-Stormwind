@@ -1,1 +1,46 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_311t","dbfId":64015,"name":"출혈","type":"SPELL","cardClass":"ROGUE","collectible":false,"cost":1,"text":"<b>뽑을 때 시전</b>\n적 영웅에게 피해를\n$2 줍니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS23-105_S.tif:95c11434d91c42e7b0769e0b342517ae","set":"STORMWIND","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":5},{"id":1077,"name":"뽑을 때 시전","value":1}],"races":[],"race":"","classes":[],"art":"art/SW_311t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-105_S.tif:95c11434d91c42e7b0769e0b342517ae","goldenMaterial":"SW_311t_PremiumCard.mat:915fec342f1b2b9408b845ad5935c8c2","goldenAnimation":"SW_311t_PremiumCard.asset:a7ac1e9f7be675c478ac5e81f17046e5"}}
+{
+  "2021-08-04": {
+    "id": "SW_311t",
+    "dbfId": 64015,
+    "name": "출혈",
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "collectible": false,
+    "cost": 1,
+    "text": "<b>뽑을 때 시전</b><br></br>적 영웅에게 피해를<br></br>$2 줍니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS23-105_S.tif:95c11434d91c42e7b0769e0b342517ae",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 1077,
+        "name": "뽑을 때 시전",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_311t.png"
+  }
+}

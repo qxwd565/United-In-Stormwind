@@ -1,1 +1,74 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_093","dbfId":64975,"name":"스톰윈드 해적","type":"MINION","cardClass":"WARRIOR","rarity":"COMMON","collectible":true,"cost":3,"text":"<b>전투의 함성:</b> 이번 턴에\n내 영웅에게 공격력을\n+2 부여합니다.","attack":3,"health":4,"durability":0,"armor":0,"flavor":"\"쟤 장화는 손대지 마! 내가 찜했으니까!\"","spellSchool":"","portrait":"HS23-001_M.tif:f1896d2c5b4b481aa7b7866e64933a85","set":"STORMWIND","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":10},{"id":200,"name":"종족","value":23},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["PIRATE"],"race":"해적","classes":[],"art":"art/SW_093.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-001_M.tif:f1896d2c5b4b481aa7b7866e64933a85","goldenMaterial":"SW_093_PremiumCard.mat:fcb53f0d6c6f7a246a0b665c17973eaa","goldenAnimation":"SW_093_PremiumCard.asset:6aab6e1e7e078f940a4266d290af8723"}}
+{
+  "2021-08-04": {
+    "id": "SW_093",
+    "dbfId": 64975,
+    "name": "스톰윈드 해적",
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>전투의 함성:</b> 이번 턴에<br></br>내 영웅에게 공격력을<br></br>+2 부여합니다.",
+    "attack": 3,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"쟤 장화는 손대지 마! 내가 찜했으니까!\"",
+    "spellSchool": "",
+    "portrait": "HS23-001_M.tif:f1896d2c5b4b481aa7b7866e64933a85",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 23
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "PIRATE"
+    ],
+    "race": "해적",
+    "classes": [],
+    "art": "art/SW_093.png"
+  }
+}

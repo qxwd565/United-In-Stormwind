@@ -1,1 +1,85 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_451","dbfId":64629,"name":"돌연비늘","type":"MINION","cardClass":"DEMONHUNTER","rarity":"COMMON","collectible":true,"cost":1,"text":"<b>도발</b>, <b>전투의 함성:</b>\n이번 턴에 지옥 주문을\n시전했으면 +2/+2를\n얻습니다.","attack":1,"health":2,"durability":0,"armor":0,"flavor":"변신 영웅이 되고 싶었던 꿈을 이뤘습니다.","spellSchool":"","portrait":"HS23-066_M.tif:7522bb45f57e4277837ed9be6bf94a3f","set":"STORMWIND","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":14},{"id":200,"name":"종족","value":14},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":2537,"name":"게임 태그 2537","value":1}],"races":["DEMON","MURLOC"],"race":"악마, 멀록","classes":[],"art":"art/SW_451.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-066_M.tif:7522bb45f57e4277837ed9be6bf94a3f","goldenMaterial":"SW_451_PremiumCard.mat:a6f5f31b5d87b614db32f9d2910da0a4","goldenAnimation":"SW_451_PremiumCard.asset:2a2042c762b2acb419d0984e7744966d"}}
+{
+  "2021-08-04": {
+    "id": "SW_451",
+    "dbfId": 64629,
+    "name": "돌연비늘",
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>도발</b>, <b>전투의 함성:</b><br></br>이번 턴에 지옥 주문을<br></br>시전했으면 +2/+2를<br></br>얻습니다.",
+    "attack": 1,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "변신 영웅이 되고 싶었던 꿈을 이뤘습니다.",
+    "spellSchool": "",
+    "portrait": "HS23-066_M.tif:7522bb45f57e4277837ed9be6bf94a3f",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2537,
+        "name": "게임 태그 2537",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DEMON",
+      "MURLOC"
+    ],
+    "race": "악마, 멀록",
+    "classes": [],
+    "art": "art/SW_451.png"
+  }
+}

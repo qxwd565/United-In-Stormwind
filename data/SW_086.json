@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_086","dbfId":64895,"name":"수상한 바텐더","type":"MINION","cardClass":"WARLOCK","rarity":"COMMON","collectible":true,"cost":5,"text":"<b>교환성</b>, <b>전투의 함성:</b>\n내 악마들에게 +2/+2를 부여합니다.","attack":4,"health":4,"durability":0,"armor":0,"flavor":"진물 한 잔 주문받았습니다.","spellSchool":"","portrait":"HS23-010_M.tif:d951b47c3f934a3da52ae7c4a9565445","set":"STORMWIND","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1720,"name":"교환성","value":1},{"id":1743,"name":"덱 행동 비용","value":1}],"races":[],"race":"","classes":[],"art":"art/SW_086.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-010_M.tif:d951b47c3f934a3da52ae7c4a9565445","goldenMaterial":"SW_086_PremiumCard.mat:075ca997b7961894cb2330e1b49878ec","goldenAnimation":"SW_086_PremiumCard.asset:98d275bfb2285234dadc3573d0a34dbe"}}
+{
+  "2021-08-04": {
+    "id": "SW_086",
+    "dbfId": 64895,
+    "name": "수상한 바텐더",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>교환성</b>, <b>전투의 함성:</b><br></br>내 악마들에게 +2/+2를 부여합니다.",
+    "attack": 4,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "진물 한 잔 주문받았습니다.",
+    "spellSchool": "",
+    "portrait": "HS23-010_M.tif:d951b47c3f934a3da52ae7c4a9565445",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1720,
+        "name": "교환성",
+        "value": 1
+      },
+      {
+        "id": 1743,
+        "name": "덱 행동 비용",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_086.png"
+  }
+}

@@ -1,1 +1,82 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_313t2","dbfId":64310,"name":"쓰러진 자들의 복수","type":"SPELL","cardClass":"PALADIN","rarity":"LEGENDARY","collectible":false,"cost":1,"text":"<b>퀘스트 전개:</b> 비용이 1인 서로\n다른 카드를 셋 내야 합니다.\n<b>보상:</b> 빛살이 카리엘","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS23-166_S.tif:cc973b47a59b4710a25b778ef2c0a366","set":"STORMWIND","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":5},{"id":535,"name":"퀘스트 완료 조건","value":3},{"id":684,"name":"비용 숨김","value":1},{"id":1089,"name":"퀘스트 보상 데이터베이스 ID","value":67610},{"id":1725,"name":"퀘스트 전개","value":1},{"id":1993,"name":"퀘스트 전개 단계","value":3},{"id":4297,"name":"게임 태그 4297","value":1}],"races":[],"race":"","classes":[],"art":"art/SW_313t2.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-166_S.tif:cc973b47a59b4710a25b778ef2c0a366","goldenMaterial":"SW_313t2_PremiumCard.mat:e2fdb8621ba1adb47be07f3abeca2704","goldenAnimation":"SW_313t2_PremiumCard.asset:b8f0b975544829d4287c84e7c5ffc16c"}}
+{
+  "2021-08-04": {
+    "id": "SW_313t2",
+    "dbfId": 64310,
+    "name": "쓰러진 자들의 복수",
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "rarity": "LEGENDARY",
+    "collectible": false,
+    "cost": 1,
+    "text": "<b>퀘스트 전개:</b> 비용이 1인 서로<br></br>다른 카드를 셋 내야 합니다.<br></br><b>보상:</b> 빛살이 카리엘",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS23-166_S.tif:cc973b47a59b4710a25b778ef2c0a366",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 535,
+        "name": "퀘스트 완료 조건",
+        "value": 3
+      },
+      {
+        "id": 684,
+        "name": "비용 숨김",
+        "value": 1
+      },
+      {
+        "id": 1089,
+        "name": "퀘스트 보상 데이터베이스 ID",
+        "value": 67610
+      },
+      {
+        "id": 1725,
+        "name": "퀘스트 전개",
+        "value": 1
+      },
+      {
+        "id": 1993,
+        "name": "퀘스트 전개 단계",
+        "value": 3
+      },
+      {
+        "id": 4297,
+        "name": "게임 태그 4297",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_313t2.png"
+  }
+}

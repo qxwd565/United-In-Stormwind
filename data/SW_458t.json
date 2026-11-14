@@ -1,1 +1,68 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_458t","dbfId":64966,"name":"타비쉬의 산양","type":"MINION","cardClass":"HUNTER","collectible":false,"cost":2,"text":"공격할 때, <b>면역</b>\n상태가 됩니다.","attack":2,"health":2,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS23-063_M.tif:363f5905b5df4f4a95f54acb1437cebd","set":"STORMWIND","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":3},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":240,"name":"면역","value":1},{"id":373,"name":"공격 중 면역","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/SW_458t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-063_M.tif:363f5905b5df4f4a95f54acb1437cebd","goldenMaterial":"SW_458t_PremiumCard.mat:40088e701c5a9354a918cd9f5de3b8ba","goldenAnimation":"SW_458t_PremiumCard.asset:e4fbfec48c2b32c45bb6215925c4d59f"}}
+{
+  "2021-08-04": {
+    "id": "SW_458t",
+    "dbfId": 64966,
+    "name": "타비쉬의 산양",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "collectible": false,
+    "cost": 2,
+    "text": "공격할 때, <b>면역</b><br></br>상태가 됩니다.",
+    "attack": 2,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS23-063_M.tif:363f5905b5df4f4a95f54acb1437cebd",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 240,
+        "name": "면역",
+        "value": 1
+      },
+      {
+        "id": 373,
+        "name": "공격 중 면역",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/SW_458t.png"
+  }
+}

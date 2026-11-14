@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_078","dbfId":64726,"name":"프레스톨 여군주","type":"MINION","cardClass":"NEUTRAL","rarity":"LEGENDARY","collectible":true,"cost":6,"text":"<b>전투의 함성:</b> 내 덱에 있는\n하수인들을 무작위 용족으로\n변신시킵니다.\n<i>(실제 능력치와 비용은\n변하지 않습니다.)</I>","attack":6,"health":7,"durability":0,"armor":0,"flavor":"솔직히 말하자면, 왕을 경호하는데 변신한 용만큼 든든한 건 없죠.","spellSchool":"","portrait":"HS23-100_M.tif:80ed7e28e6b8441e92e1e80fb5bc3009","set":"STORMWIND","nativeTags":[{"id":45,"name":"생명력","value":7},{"id":47,"name":"공격력","value":6},{"id":48,"name":"마나 비용","value":6},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/SW_078.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-100_M.tif:80ed7e28e6b8441e92e1e80fb5bc3009","goldenMaterial":"SW_078_PremiumCard.mat:75531311e770e5449a1740b14e9ff780","goldenAnimation":"SW_078_PremiumCard.asset:59ac191c029f12941860003d25d2a8b2"}}
+{
+  "2021-08-04": {
+    "id": "SW_078",
+    "dbfId": 64726,
+    "name": "프레스톨 여군주",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>전투의 함성:</b> 내 덱에 있는<br></br>하수인들을 무작위 용족으로<br></br>변신시킵니다.<br></br><i>(실제 능력치와 비용은<br></br>변하지 않습니다.)</I>",
+    "attack": 6,
+    "health": 7,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "솔직히 말하자면, 왕을 경호하는데 변신한 용만큼 든든한 건 없죠.",
+    "spellSchool": "",
+    "portrait": "HS23-100_M.tif:80ed7e28e6b8441e92e1e80fb5bc3009",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 7
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 6
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_078.png"
+  }
+}

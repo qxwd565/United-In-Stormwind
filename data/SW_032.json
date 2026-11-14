@@ -1,1 +1,74 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_032","dbfId":64320,"name":"화강암 제련살이","type":"MINION","cardClass":"SHAMAN","rarity":"RARE","collectible":true,"cost":4,"text":"<b>전투의 함성:</b> 내 손과\n덱에 있는 정령들의\n비용이 (1) 감소합니다.","attack":4,"health":5,"durability":0,"armor":0,"flavor":"쓸모가 없어지면 주방 상판으로 만들어버리면 됩니다.","spellSchool":"","portrait":"HS23-026_M.tif:2c9ba4095b95425eba18051893a2e94a","set":"STORMWIND","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":8},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/SW_032.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-026_M.tif:2c9ba4095b95425eba18051893a2e94a","goldenMaterial":"SW_032_PremiumCard.mat:ee3a8e919273954458573475b345535c","goldenAnimation":"SW_032_PremiumCard.asset:49c50a9baa4447648a25041091f70cdc"}}
+{
+  "2021-08-04": {
+    "id": "SW_032",
+    "dbfId": 64320,
+    "name": "화강암 제련살이",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>전투의 함성:</b> 내 손과<br></br>덱에 있는 정령들의<br></br>비용이 (1) 감소합니다.",
+    "attack": 4,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "쓸모가 없어지면 주방 상판으로 만들어버리면 됩니다.",
+    "spellSchool": "",
+    "portrait": "HS23-026_M.tif:2c9ba4095b95425eba18051893a2e94a",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/SW_032.png"
+  }
+}

@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_317","dbfId":64371,"name":"지하묘지 경비병","type":"MINION","cardClass":"PALADIN","rarity":"RARE","collectible":true,"cost":3,"text":"<b>생명력 흡수</b>, <b>전투의 함성:</b> 이 하수인의 공격력만큼 적 하수인에게 피해를 줍니다.","attack":1,"health":4,"durability":0,"armor":0,"flavor":"빛을 섬기는 곳이 이렇게 어두워도 되나요?","spellSchool":"","portrait":"HS23-163_M.tif:eef55238fecc46efa665cb7d1ba0b579","set":"STORMWIND","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":685,"name":"생명력 흡수","value":1}],"races":[],"race":"","classes":[],"art":"art/SW_317.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-163_M.tif:eef55238fecc46efa665cb7d1ba0b579","goldenMaterial":"SW_317_PremiumCard.mat:e52a615f905f745498e1999ad6c02790","goldenAnimation":"SW_317_PremiumCard.asset:4facdd1465f66504cb8aa8d3ec78da39"}}
+{
+  "2021-08-04": {
+    "id": "SW_317",
+    "dbfId": 64371,
+    "name": "지하묘지 경비병",
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>생명력 흡수</b>, <b>전투의 함성:</b> 이 하수인의 공격력만큼 적 하수인에게 피해를 줍니다.",
+    "attack": 1,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "빛을 섬기는 곳이 이렇게 어두워도 되나요?",
+    "spellSchool": "",
+    "portrait": "HS23-163_M.tif:eef55238fecc46efa665cb7d1ba0b579",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 685,
+        "name": "생명력 흡수",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_317.png"
+  }
+}

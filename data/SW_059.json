@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_059","dbfId":64707,"name":"깊은굴 기술자","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":2,"text":"<b>전투의 함성:</b> 기계를\n<b>발견</b>합니다. 그 기계의\n비용이 (1) 감소합니다.","attack":1,"health":2,"durability":0,"armor":0,"flavor":"깊은굴 지하철 조립 설명서: 부품 30만 개, 조립 순서 60만 번.","spellSchool":"","portrait":"HS23-084_M.tif:0a305b2c95854d1f84fc5eb34cb1669c","set":"STORMWIND","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":415,"name":"발견","value":1},{"id":1342,"name":"발견 시각 효과","value":1}],"races":[],"race":"","classes":[],"art":"art/SW_059.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-084_M.tif:0a305b2c95854d1f84fc5eb34cb1669c","goldenMaterial":"SW_059_PremiumCard.mat:af1d96f7e70cef247a10aaf36594621c","goldenAnimation":"SW_059_PremiumCard.asset:c7f379ff26f287d459969b29af8afc91"}}
+{
+  "2021-08-04": {
+    "id": "SW_059",
+    "dbfId": 64707,
+    "name": "깊은굴 기술자",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>전투의 함성:</b> 기계를<br></br><b>발견</b>합니다. 그 기계의<br></br>비용이 (1) 감소합니다.",
+    "attack": 1,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "깊은굴 지하철 조립 설명서: 부품 30만 개, 조립 순서 60만 번.",
+    "spellSchool": "",
+    "portrait": "HS23-084_M.tif:0a305b2c95854d1f84fc5eb34cb1669c",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1342,
+        "name": "발견 시각 효과",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_059.png"
+  }
+}

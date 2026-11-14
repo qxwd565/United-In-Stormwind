@@ -1,1 +1,46 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_439t","dbfId":64851,"name":"도토리","type":"SPELL","cardClass":"DRUID","collectible":false,"cost":1,"text":"<b>뽑을 때 시전</b>\n2/1 다람쥐를 소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS23-019_S.tif:6598b71855994484b856ebc98a9a649d","set":"STORMWIND","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5},{"id":1077,"name":"뽑을 때 시전","value":1}],"races":[],"race":"","classes":[],"art":"art/SW_439t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-019_S.tif:6598b71855994484b856ebc98a9a649d","goldenMaterial":"SW_439t_PremiumCard.mat:533a1cf95acaa0a4184a8d29c6ae1167","goldenAnimation":"SW_439t_PremiumCard.asset:d1fd8f50301011a4f9600386a61adf8d"}}
+{
+  "2021-08-04": {
+    "id": "SW_439t",
+    "dbfId": 64851,
+    "name": "도토리",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "collectible": false,
+    "cost": 1,
+    "text": "<b>뽑을 때 시전</b><br></br>2/1 다람쥐를 소환합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS23-019_S.tif:6598b71855994484b856ebc98a9a649d",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 1077,
+        "name": "뽑을 때 시전",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_439t.png"
+  }
+}

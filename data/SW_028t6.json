@@ -1,1 +1,71 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_028t6","dbfId":71431,"name":"거대모함","type":"MINION","cardClass":"WARRIOR","collectible":false,"cost":5,"text":"내 턴이 시작될 때, 해적을 소환하고 전사 무기를 장착하고 피해를 2 주는 대포를 2번 발사합니다.","attack":0,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS23-244_M.tif:d8197f5cfa514135999193b2e3b6406f","set":"STORMWIND","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":1},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":10},{"id":202,"name":"카드 유형","value":4},{"id":402,"name":"능력치 숨김","value":1},{"id":448,"name":"대상 지정 불가","value":1},{"id":684,"name":"비용 숨김","value":1}],"races":[],"race":"","classes":[],"art":"art/SW_028t6.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-244_M.tif:d8197f5cfa514135999193b2e3b6406f","goldenMaterial":"SW_028t6_PremiumCard.mat:b0d41df2e9b57b741afb5158348f290f","goldenAnimation":"SW_028t6_PremiumCard.asset:9638f957cc724a3438e4a79239c7fc81"}}
+{
+  "2021-08-04": {
+    "id": "SW_028t6",
+    "dbfId": 71431,
+    "name": "거대모함",
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "collectible": false,
+    "cost": 5,
+    "text": "내 턴이 시작될 때, 해적을 소환하고 전사 무기를 장착하고 피해를 2 주는 대포를 2번 발사합니다.",
+    "attack": 0,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS23-244_M.tif:d8197f5cfa514135999193b2e3b6406f",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 402,
+        "name": "능력치 숨김",
+        "value": 1
+      },
+      {
+        "id": 448,
+        "name": "대상 지정 불가",
+        "value": 1
+      },
+      {
+        "id": 684,
+        "name": "비용 숨김",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_028t6.png"
+  }
+}

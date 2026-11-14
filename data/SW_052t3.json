@@ -1,1 +1,61 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_052t3","dbfId":65436,"name":"첩보단장 스캡스","type":"MINION","cardClass":"ROGUE","collectible":false,"cost":5,"text":"<b>전투의 함성:</b> 모든 종류의\n<b>첩보 도구</b>를 1장씩\n내 손으로 가져옵니다.","attack":7,"health":7,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS23-108_M.tif:86e1b91f9e0d4f24b460ec1b40c61119","set":"STORMWIND","nativeTags":[{"id":45,"name":"생명력","value":7},{"id":47,"name":"공격력","value":7},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":4},{"id":218,"name":"전투의 함성","value":1}],"races":[],"race":"","classes":[],"art":"art/SW_052t3.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-108_M.tif:86e1b91f9e0d4f24b460ec1b40c61119","goldenMaterial":"SW_052t3_PremiumCard.mat:399a599c5e65dc24db4af025dc8b25fe","goldenAnimation":"SW_052t3_PremiumCard.asset:72600f6d01802b849ad4db0310aa0894"}}
+{
+  "2021-08-04": {
+    "id": "SW_052t3",
+    "dbfId": 65436,
+    "name": "첩보단장 스캡스",
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "collectible": false,
+    "cost": 5,
+    "text": "<b>전투의 함성:</b> 모든 종류의<br></br><b>첩보 도구</b>를 1장씩<br></br>내 손으로 가져옵니다.",
+    "attack": 7,
+    "health": 7,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS23-108_M.tif:86e1b91f9e0d4f24b460ec1b40c61119",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 7
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 7
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_052t3.png"
+  }
+}

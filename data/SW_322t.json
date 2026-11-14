@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_322t","dbfId":64635,"name":"고지대 확보","type":"SPELL","cardClass":"HUNTER","rarity":"LEGENDARY","collectible":false,"cost":1,"text":"<b>퀘스트 전개:</b> 주문 둘로\n피해를 줘야 합니다.\n<b>보상:</b> 내 영웅 능력의 비용이\n(0)이 됩니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS23-207_S.tif:e10125c9761143aaa9105cdec61d4fef","set":"STORMWIND","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":3},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":5},{"id":535,"name":"퀘스트 완료 조건","value":2},{"id":684,"name":"비용 숨김","value":1},{"id":1089,"name":"퀘스트 보상 데이터베이스 ID","value":64636},{"id":1725,"name":"퀘스트 전개","value":1},{"id":1993,"name":"퀘스트 전개 단계","value":2}],"races":[],"race":"","classes":[],"art":"art/SW_322t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-207_S.tif:e10125c9761143aaa9105cdec61d4fef","goldenMaterial":"SW_322t_PremiumCard.mat:0658e354e577b5a478d6378a2ede0539","goldenAnimation":"SW_322t_PremiumCard.asset:f6d415bb5ea74e54b9057c784196bbdd"}}
+{
+  "2021-08-04": {
+    "id": "SW_322t",
+    "dbfId": 64635,
+    "name": "고지대 확보",
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "rarity": "LEGENDARY",
+    "collectible": false,
+    "cost": 1,
+    "text": "<b>퀘스트 전개:</b> 주문 둘로<br></br>피해를 줘야 합니다.<br></br><b>보상:</b> 내 영웅 능력의 비용이<br></br>(0)이 됩니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS23-207_S.tif:e10125c9761143aaa9105cdec61d4fef",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 535,
+        "name": "퀘스트 완료 조건",
+        "value": 2
+      },
+      {
+        "id": 684,
+        "name": "비용 숨김",
+        "value": 1
+      },
+      {
+        "id": 1089,
+        "name": "퀘스트 보상 데이터베이스 ID",
+        "value": 64636
+      },
+      {
+        "id": 1725,
+        "name": "퀘스트 전개",
+        "value": 1
+      },
+      {
+        "id": 1993,
+        "name": "퀘스트 전개 단계",
+        "value": 2
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_322t.png"
+  }
+}

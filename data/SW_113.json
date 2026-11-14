@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_113","dbfId":64438,"name":"대학자 안토니다스","type":"MINION","cardClass":"MAGE","rarity":"LEGENDARY","collectible":true,"cost":8,"text":"<b>전투의 함성:</b> 내가 이전 3턴 모두 화염 주문을 시전했다면, 무작위 적들에게 화염구를 3번 시전합니다.","attack":6,"health":6,"durability":0,"armor":0,"flavor":"제이나가 냉기 마법사가 되어 굉장히 실망했다네요.","spellSchool":"","portrait":"HS23-037_M.tif:38540cf48bf9499ba3d770241a29b6a8","set":"STORMWIND","nativeTags":[{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":6},{"id":48,"name":"마나 비용","value":8},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":69501}],"races":[],"race":"","classes":[],"art":"art/SW_113.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-037_M.tif:38540cf48bf9499ba3d770241a29b6a8","goldenMaterial":"SW_113_PremiumCard.mat:aae8bdf568f67a249b7dff7e6f0374ce","goldenAnimation":"SW_113_PremiumCard.asset:a351a9239d0c45e4383087b9832b93ca"}}
+{
+  "2021-08-04": {
+    "id": "SW_113",
+    "dbfId": 64438,
+    "name": "대학자 안토니다스",
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 8,
+    "text": "<b>전투의 함성:</b> 내가 이전 3턴 모두 화염 주문을 시전했다면, 무작위 적들에게 화염구를 3번 시전합니다.",
+    "attack": 6,
+    "health": 6,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "제이나가 냉기 마법사가 되어 굉장히 실망했다네요.",
+    "spellSchool": "",
+    "portrait": "HS23-037_M.tif:38540cf48bf9499ba3d770241a29b6a8",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 6
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 8
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 69501
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_113.png"
+  }
+}

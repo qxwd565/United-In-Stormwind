@@ -1,1 +1,63 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_443t","dbfId":64418,"name":"자이렐라의 엘레크","type":"MINION","cardClass":"PRIEST","collectible":false,"cost":6,"text":"<b>도발</b>","attack":4,"health":7,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS23-041_M.tif:5cd1004b8b5a4cd6a63b7ac983f18e6a","set":"STORMWIND","nativeTags":[{"id":45,"name":"생명력","value":7},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":6},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":6},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/SW_443t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-041_M.tif:5cd1004b8b5a4cd6a63b7ac983f18e6a","goldenMaterial":"SW_443t_PremiumCard.mat:4a52f414cb1350b4e804c2a65f1284d5","goldenAnimation":"SW_443t_PremiumCard.asset:6c0ff9d7a309de34592ab64bfca7b1db"}}
+{
+  "2021-08-04": {
+    "id": "SW_443t",
+    "dbfId": 64418,
+    "name": "자이렐라의 엘레크",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "collectible": false,
+    "cost": 6,
+    "text": "<b>도발</b>",
+    "attack": 4,
+    "health": 7,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS23-041_M.tif:5cd1004b8b5a4cd6a63b7ac983f18e6a",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 7
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/SW_443t.png"
+  }
+}

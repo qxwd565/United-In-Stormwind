@@ -1,1 +1,82 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_091t","dbfId":64901,"name":"연결 구축","type":"SPELL","cardClass":"WARLOCK","rarity":"LEGENDARY","collectible":false,"cost":1,"text":"<b>퀘스트 전개:</b> 내 턴에 내 영웅이\n피해를 12 받아야 합니다.\n<b>보상:</b> <b>생명력 흡수</b>, 적 영웅에게\n피해를 $3 줍니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS23-194_S.tif:b84c9be4fcc8412fb8c711cdc3542ef1","set":"STORMWIND","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":5},{"id":535,"name":"퀘스트 완료 조건","value":12},{"id":684,"name":"비용 숨김","value":1},{"id":685,"name":"생명력 흡수","value":1},{"id":1089,"name":"퀘스트 보상 데이터베이스 ID","value":65160},{"id":1725,"name":"퀘스트 전개","value":1},{"id":1993,"name":"퀘스트 전개 단계","value":2}],"races":[],"race":"","classes":[],"art":"art/SW_091t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-194_S.tif:b84c9be4fcc8412fb8c711cdc3542ef1","goldenMaterial":"SW_091t_PremiumCard.mat:4f2c40b7baae816429602ee20b514446","goldenAnimation":"SW_091t_PremiumCard.asset:6d6267ab4aefb7e4699b76ee8945670c"}}
+{
+  "2021-08-04": {
+    "id": "SW_091t",
+    "dbfId": 64901,
+    "name": "연결 구축",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "rarity": "LEGENDARY",
+    "collectible": false,
+    "cost": 1,
+    "text": "<b>퀘스트 전개:</b> 내 턴에 내 영웅이<br></br>피해를 12 받아야 합니다.<br></br><b>보상:</b> <b>생명력 흡수</b>, 적 영웅에게<br></br>피해를 $3 줍니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS23-194_S.tif:b84c9be4fcc8412fb8c711cdc3542ef1",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 535,
+        "name": "퀘스트 완료 조건",
+        "value": 12
+      },
+      {
+        "id": 684,
+        "name": "비용 숨김",
+        "value": 1
+      },
+      {
+        "id": 685,
+        "name": "생명력 흡수",
+        "value": 1
+      },
+      {
+        "id": 1089,
+        "name": "퀘스트 보상 데이터베이스 ID",
+        "value": 65160
+      },
+      {
+        "id": 1725,
+        "name": "퀘스트 전개",
+        "value": 1
+      },
+      {
+        "id": 1993,
+        "name": "퀘스트 전개 단계",
+        "value": 2
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_091t.png"
+  }
+}

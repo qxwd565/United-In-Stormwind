@@ -1,1 +1,74 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_111","dbfId":64435,"name":"성소 양초꾼","type":"MINION","cardClass":"MAGE","rarity":"RARE","collectible":true,"cost":5,"text":"내가 화염 주문을 시전한 후에, 주문을 뽑습니다.","attack":4,"health":5,"durability":0,"armor":0,"flavor":"아무리 어두운 곳에 가도 손전등은 필요 없겠군요.","spellSchool":"","portrait":"HS23-032_M.tif:5cb40430bcc640e9b27ba434d05a7c64","set":"STORMWIND","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":4},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/SW_111.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-032_M.tif:5cb40430bcc640e9b27ba434d05a7c64","goldenMaterial":"SW_111_PremiumCard.mat:ef6d90ead49a71e4eba40e88913ef0c9","goldenAnimation":"SW_111_PremiumCard.asset:b8899c665bcf8e749bd4183443014154"}}
+{
+  "2021-08-04": {
+    "id": "SW_111",
+    "dbfId": 64435,
+    "name": "성소 양초꾼",
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 5,
+    "text": "내가 화염 주문을 시전한 후에, 주문을 뽑습니다.",
+    "attack": 4,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "아무리 어두운 곳에 가도 손전등은 필요 없겠군요.",
+    "spellSchool": "",
+    "portrait": "HS23-032_M.tif:5cb40430bcc640e9b27ba434d05a7c64",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/SW_111.png"
+  }
+}

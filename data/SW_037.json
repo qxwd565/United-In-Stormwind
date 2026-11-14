@@ -1,1 +1,74 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_037","dbfId":64373,"name":"분노결속 투사","type":"MINION","cardClass":"DEMONHUNTER","rarity":"COMMON","collectible":true,"cost":7,"text":"<b>도발</b>, 이번 턴에 뽑은 카드 하나당 비용이 (1)씩 감소합니다.","attack":6,"health":7,"durability":0,"armor":0,"flavor":"\"복수와 증오를 오우거와 합치면 완전 대박 날 거야. 내 말 믿어 봐.\"","spellSchool":"","portrait":"HS23-067_M.tif:26daa10224084c64b488ac67f1bd7501","set":"STORMWIND","nativeTags":[{"id":45,"name":"생명력","value":7},{"id":47,"name":"공격력","value":6},{"id":48,"name":"마나 비용","value":7},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":14},{"id":200,"name":"종족","value":15},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["DEMON"],"race":"악마","classes":[],"art":"art/SW_037.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-067_M.tif:26daa10224084c64b488ac67f1bd7501","goldenMaterial":"SW_037_PremiumCard.mat:90bd75d4db637fe43b0ec8e7d9f114c6","goldenAnimation":"SW_037_PremiumCard.asset:e1a17cd65eac67f4da776119c1f562bf"}}
+{
+  "2021-08-04": {
+    "id": "SW_037",
+    "dbfId": 64373,
+    "name": "분노결속 투사",
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 7,
+    "text": "<b>도발</b>, 이번 턴에 뽑은 카드 하나당 비용이 (1)씩 감소합니다.",
+    "attack": 6,
+    "health": 7,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"복수와 증오를 오우거와 합치면 완전 대박 날 거야. 내 말 믿어 봐.\"",
+    "spellSchool": "",
+    "portrait": "HS23-067_M.tif:26daa10224084c64b488ac67f1bd7501",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 7
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 6
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 15
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DEMON"
+    ],
+    "race": "악마",
+    "classes": [],
+    "art": "art/SW_037.png"
+  }
+}

@@ -1,1 +1,85 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DED_507","dbfId":65609,"name":"망루의 망꾼","type":"MINION","cardClass":"DEMONHUNTER","rarity":"COMMON","collectible":true,"cost":3,"text":"<b>전투의 함성:</b> 가장 왼쪽과 오른쪽에 있는 적 하수인에게 피해를 2 줍니다.","attack":2,"health":2,"durability":0,"armor":0,"flavor":"보는 눈이 더 많아서 더 안전하죠.","spellSchool":"","portrait":"HS23-220_M.tif:b7b54ea52a1d42d0809e2840baa28855","set":"STORMWIND","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":14},{"id":200,"name":"종족","value":15},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1},{"id":2522,"name":"게임 태그 2522","value":1}],"races":["DEMON","PIRATE"],"race":"악마, 해적","classes":[],"art":"art/DED_507.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-220_M.tif:b7b54ea52a1d42d0809e2840baa28855","goldenMaterial":"DED_507_PremiumCard.mat:57c3afe2b622be24fb091cf8306ff388","goldenAnimation":"DED_507_PremiumCard.asset:6b5468bda16dfe84fb7c005de85cd064"}}
+{
+  "2021-11-03": {
+    "id": "DED_507",
+    "dbfId": 65609,
+    "name": "망루의 망꾼",
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>전투의 함성:</b> 가장 왼쪽과 오른쪽에 있는 적 하수인에게 피해를 2 줍니다.",
+    "attack": 2,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "보는 눈이 더 많아서 더 안전하죠.",
+    "spellSchool": "",
+    "portrait": "HS23-220_M.tif:b7b54ea52a1d42d0809e2840baa28855",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 15
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 2522,
+        "name": "게임 태그 2522",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DEMON",
+      "PIRATE"
+    ],
+    "race": "악마, 해적",
+    "classes": [],
+    "art": "art/DED_507.png"
+  }
+}

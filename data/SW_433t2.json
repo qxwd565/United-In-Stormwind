@@ -1,1 +1,82 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_433t2","dbfId":64352,"name":"공허 밝히기","type":"SPELL","cardClass":"PRIEST","rarity":"LEGENDARY","collectible":false,"cost":1,"text":"<b>퀘스트 전개:</b> 비용이 7,\n8인 카드를 내야합니다.\n<b>보상:</b> 성화의 자이렐라","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS23-141_S.tif:36f0b238d34f4f99ac9b851b176f14ed","set":"STORMWIND","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":5},{"id":535,"name":"퀘스트 완료 조건","value":2},{"id":684,"name":"비용 숨김","value":1},{"id":1089,"name":"퀘스트 보상 데이터베이스 ID","value":65723},{"id":1725,"name":"퀘스트 전개","value":1},{"id":1993,"name":"퀘스트 전개 단계","value":3},{"id":4297,"name":"게임 태그 4297","value":1}],"races":[],"race":"","classes":[],"art":"art/SW_433t2.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-141_S.tif:36f0b238d34f4f99ac9b851b176f14ed","goldenMaterial":"SW_433t2_PremiumCard.mat:d4302a32e580a0d4eb6b170dc67bb5a8","goldenAnimation":"SW_433t2_PremiumCard.asset:141cc3802be3fcc43b8526302d985df0"}}
+{
+  "2021-08-04": {
+    "id": "SW_433t2",
+    "dbfId": 64352,
+    "name": "공허 밝히기",
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "rarity": "LEGENDARY",
+    "collectible": false,
+    "cost": 1,
+    "text": "<b>퀘스트 전개:</b> 비용이 7,<br></br>8인 카드를 내야합니다.<br></br><b>보상:</b> 성화의 자이렐라",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS23-141_S.tif:36f0b238d34f4f99ac9b851b176f14ed",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 535,
+        "name": "퀘스트 완료 조건",
+        "value": 2
+      },
+      {
+        "id": 684,
+        "name": "비용 숨김",
+        "value": 1
+      },
+      {
+        "id": 1089,
+        "name": "퀘스트 보상 데이터베이스 ID",
+        "value": 65723
+      },
+      {
+        "id": 1725,
+        "name": "퀘스트 전개",
+        "value": 1
+      },
+      {
+        "id": 1993,
+        "name": "퀘스트 전개 단계",
+        "value": 3
+      },
+      {
+        "id": 4297,
+        "name": "게임 태그 4297",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_433t2.png"
+  }
+}

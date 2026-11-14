@@ -1,1 +1,41 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_079t2","dbfId":64918,"name":"아이언포지","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":0,"text":"3턴 후에, 내 영웅의 생명력을 10 회복시킵니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS23-229_S.tif:ebf279444d2a46d2a11bf4a831663e19","set":"STORMWIND","nativeTags":[{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":5},{"id":402,"name":"능력치 숨김","value":1}],"races":[],"race":"","classes":[],"art":"art/SW_079t2.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-229_S.tif:ebf279444d2a46d2a11bf4a831663e19","goldenMaterial":"SW_079t2_PremiumCard.mat:6bc72c2096478ea419b7b81708cff192","goldenAnimation":"SW_079t2_PremiumCard.asset:8e0e15a35b47aa64bb8e6ce5713bcec4"}}
+{
+  "2021-08-04": {
+    "id": "SW_079t2",
+    "dbfId": 64918,
+    "name": "아이언포지",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 0,
+    "text": "3턴 후에, 내 영웅의 생명력을 10 회복시킵니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS23-229_S.tif:ebf279444d2a46d2a11bf4a831663e19",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 402,
+        "name": "능력치 숨김",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_079t2.png"
+  }
+}

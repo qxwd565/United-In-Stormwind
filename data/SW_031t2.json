@@ -1,1 +1,87 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_031t2","dbfId":64324,"name":"불꽃 길들이기","type":"SPELL","cardClass":"SHAMAN","rarity":"LEGENDARY","collectible":false,"cost":1,"text":"<b>퀘스트 전개:</b> <b>과부하</b> 카드를\n2장 내야 합니다.\n<b>보상:</b> 폭풍소환사 브루칸","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS23-131_S.tif:60fb7423d8a74037ae357f1f2a384275","set":"STORMWIND","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":8},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":5},{"id":215,"name":"과부하","value":1},{"id":535,"name":"퀘스트 완료 조건","value":2},{"id":684,"name":"비용 숨김","value":1},{"id":1089,"name":"퀘스트 보상 데이터베이스 ID","value":67752},{"id":1725,"name":"퀘스트 전개","value":1},{"id":1993,"name":"퀘스트 전개 단계","value":3},{"id":4297,"name":"게임 태그 4297","value":1}],"races":[],"race":"","classes":[],"art":"art/SW_031t2.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-131_S.tif:60fb7423d8a74037ae357f1f2a384275","goldenMaterial":"SW_031t2_PremiumCard.mat:707d5cd3c7be6d545b760b575dad38cd","goldenAnimation":"SW_031t2_PremiumCard.asset:3c4bf22588b109242b69b1f07eb1e676"}}
+{
+  "2021-08-04": {
+    "id": "SW_031t2",
+    "dbfId": 64324,
+    "name": "불꽃 길들이기",
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "rarity": "LEGENDARY",
+    "collectible": false,
+    "cost": 1,
+    "text": "<b>퀘스트 전개:</b> <b>과부하</b> 카드를<br></br>2장 내야 합니다.<br></br><b>보상:</b> 폭풍소환사 브루칸",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS23-131_S.tif:60fb7423d8a74037ae357f1f2a384275",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 215,
+        "name": "과부하",
+        "value": 1
+      },
+      {
+        "id": 535,
+        "name": "퀘스트 완료 조건",
+        "value": 2
+      },
+      {
+        "id": 684,
+        "name": "비용 숨김",
+        "value": 1
+      },
+      {
+        "id": 1089,
+        "name": "퀘스트 보상 데이터베이스 ID",
+        "value": 67752
+      },
+      {
+        "id": 1725,
+        "name": "퀘스트 전개",
+        "value": 1
+      },
+      {
+        "id": 1993,
+        "name": "퀘스트 전개 단계",
+        "value": 3
+      },
+      {
+        "id": 4297,
+        "name": "게임 태그 4297",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_031t2.png"
+  }
+}

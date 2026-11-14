@@ -1,1 +1,63 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DED_517t","dbfId":69499,"name":"비전 잔여물","type":"MINION","cardClass":"MAGE","collectible":false,"cost":1,"text":"","attack":1,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS23-125_M.tif:2e591dba4f394559808250963619eb3a","set":"STORMWIND","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":4},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4},{"id":1824,"name":"미니 세트","value":1}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/DED_517t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-125_M.tif:2e591dba4f394559808250963619eb3a","goldenMaterial":"DED_517t_PremiumCard.mat:46b423e33555439409097ea46a2882a3","goldenAnimation":"DED_517t_PremiumCard.asset:98fcb44baeedfbb418702cc2981d0258"}}
+{
+  "2021-11-03": {
+    "id": "DED_517t",
+    "dbfId": 69499,
+    "name": "비전 잔여물",
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "collectible": false,
+    "cost": 1,
+    "text": "",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS23-125_M.tif:2e591dba4f394559808250963619eb3a",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/DED_517t.png"
+  }
+}

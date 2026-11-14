@@ -1,1 +1,74 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_459","dbfId":64968,"name":"스톰윈드 피리꾼","type":"MINION","cardClass":"HUNTER","rarity":"COMMON","collectible":true,"cost":3,"text":"이 하수인이 공격한 후에, 내 야수들에게 +1/+1을 부여합니다.","attack":1,"health":6,"durability":0,"armor":0,"flavor":"왕쥐와 함께 광란의 파티를 엽니다. 비 오는 날만 빼고요.","spellSchool":"","portrait":"HS23-201_M.tif:ae45d2959aa94f10810d03fd28f1aa3c","set":"STORMWIND","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":3},{"id":200,"name":"종족","value":15},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["DEMON"],"race":"악마","classes":[],"art":"art/SW_459.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-201_M.tif:ae45d2959aa94f10810d03fd28f1aa3c","goldenMaterial":"SW_459_PremiumCard.mat:0cfd52d81a771304eb98f9213ab8cd02","goldenAnimation":"SW_459_PremiumCard.asset:1db69025ca997d6448f77aa575e82998"}}
+{
+  "2021-08-04": {
+    "id": "SW_459",
+    "dbfId": 64968,
+    "name": "스톰윈드 피리꾼",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "이 하수인이 공격한 후에, 내 야수들에게 +1/+1을 부여합니다.",
+    "attack": 1,
+    "health": 6,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "왕쥐와 함께 광란의 파티를 엽니다. 비 오는 날만 빼고요.",
+    "spellSchool": "",
+    "portrait": "HS23-201_M.tif:ae45d2959aa94f10810d03fd28f1aa3c",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 15
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DEMON"
+    ],
+    "race": "악마",
+    "classes": [],
+    "art": "art/SW_459.png"
+  }
+}

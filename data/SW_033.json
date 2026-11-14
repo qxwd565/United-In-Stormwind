@@ -1,1 +1,84 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_033","dbfId":64321,"name":"수로의 느림보","type":"MINION","cardClass":"SHAMAN","rarity":"COMMON","collectible":true,"cost":4,"text":"<b>속공</b>, <b>생명력 흡수</b>\n<b>과부하:</b> (1)","attack":6,"health":4,"durability":0,"armor":0,"flavor":"\"오늘도 수로 출근이야? 발걸음이 안 떨어지네.\"","spellSchool":"","portrait":"HS23-126_M.tif:96e07e3609bb4f6ba7bac5575e8d1ccc","set":"STORMWIND","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":6},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":8},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":215,"name":"과부하","value":1},{"id":321,"name":"수집 가능","value":1},{"id":685,"name":"생명력 흡수","value":1},{"id":791,"name":"속공","value":1}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/SW_033.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-126_M.tif:96e07e3609bb4f6ba7bac5575e8d1ccc","goldenMaterial":"SW_033_PremiumCard.mat:81e7b36c957894c428260407933c6cdf","goldenAnimation":"SW_033_PremiumCard.asset:bc42f84dd0044b748a172cd6e87b447b"}}
+{
+  "2021-08-04": {
+    "id": "SW_033",
+    "dbfId": 64321,
+    "name": "수로의 느림보",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>속공</b>, <b>생명력 흡수</b><br></br><b>과부하:</b> (1)",
+    "attack": 6,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"오늘도 수로 출근이야? 발걸음이 안 떨어지네.\"",
+    "spellSchool": "",
+    "portrait": "HS23-126_M.tif:96e07e3609bb4f6ba7bac5575e8d1ccc",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 6
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 215,
+        "name": "과부하",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 685,
+        "name": "생명력 흡수",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/SW_033.png"
+  }
+}

@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_041","dbfId":64394,"name":"기민함의 인장","type":"SPELL","cardClass":"DEMONHUNTER","rarity":"RARE","collectible":true,"cost":1,"text":"내 다음 턴이 시작될 때, 카드를 뽑고 그 카드의 비용이 (1) 감소합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"빨간 불이 보이면 정지. 보라 불이 보이면 악셀 밟아!","spellSchool":"SHADOW","portrait":"HS23-213_S.tif:26517da1df80408ebdaf176318d2fc00","set":"STORMWIND","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":14},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":6},{"id":1749,"name":"인장","value":1}],"races":[],"race":"","classes":[],"art":"art/SW_041.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-213_S.tif:26517da1df80408ebdaf176318d2fc00","goldenMaterial":"SW_041_PremiumCard.mat:3da247bc793cb9f41813026067a3bf37","goldenAnimation":"SW_041_PremiumCard.asset:337f4ac7950cd6a4ba7c99df6b3a5446"}}
+{
+  "2021-08-04": {
+    "id": "SW_041",
+    "dbfId": 64394,
+    "name": "기민함의 인장",
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 1,
+    "text": "내 다음 턴이 시작될 때, 카드를 뽑고 그 카드의 비용이 (1) 감소합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "빨간 불이 보이면 정지. 보라 불이 보이면 악셀 밟아!",
+    "spellSchool": "SHADOW",
+    "portrait": "HS23-213_S.tif:26517da1df80408ebdaf176318d2fc00",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      },
+      {
+        "id": 1749,
+        "name": "인장",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_041.png"
+  }
+}

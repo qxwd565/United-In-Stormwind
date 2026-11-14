@@ -1,1 +1,41 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_079t3","dbfId":64919,"name":"동부 역병지대","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":0,"text":"5턴 후에, 적들에게 12의 피해를 무작위로 나누어 입힙니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS23-230_S.tif:7710c5dc4ab846a1b828dde2a2402303","set":"STORMWIND","nativeTags":[{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":5},{"id":402,"name":"능력치 숨김","value":1}],"races":[],"race":"","classes":[],"art":"art/SW_079t3.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-230_S.tif:7710c5dc4ab846a1b828dde2a2402303","goldenMaterial":"SW_079t3_PremiumCard.mat:6db978ebc6851ef40b2d7997ce5c3dac","goldenAnimation":"SW_079t3_PremiumCard.asset:2f70d193ffcca274ca4be0d594ca7295"}}
+{
+  "2021-08-04": {
+    "id": "SW_079t3",
+    "dbfId": 64919,
+    "name": "동부 역병지대",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 0,
+    "text": "5턴 후에, 적들에게 12의 피해를 무작위로 나누어 입힙니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS23-230_S.tif:7710c5dc4ab846a1b828dde2a2402303",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 402,
+        "name": "능력치 숨김",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_079t3.png"
+  }
+}

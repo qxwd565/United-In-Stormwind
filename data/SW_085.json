@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_085","dbfId":64894,"name":"뒷골목의 서약","type":"SPELL","cardClass":"WARLOCK","rarity":"RARE","collectible":true,"cost":4,"text":"<b>도발</b> 능력이 있는 마귀를 소환합니다. 능력치는 내 손에 있는 카드 수와 같습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"\"덕분에 이 골목에도 빛이 들어오겠어요.\"","spellSchool":"SHADOW","portrait":"HS23-009_S.tif:f4d8bc28df8548c1801af95b43daedd3","set":"STORMWIND","nativeTags":[{"id":48,"name":"마나 비용","value":4},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":67810},{"id":1635,"name":"주문 속성","value":6}],"races":[],"race":"","classes":[],"art":"art/SW_085.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-009_S.tif:f4d8bc28df8548c1801af95b43daedd3","goldenMaterial":"SW_085_PremiumCard.mat:c8a526b9f18e5eb4387676a0b2f3e936","goldenAnimation":"SW_085_PremiumCard.asset:1fb06cd67b3415d4a832d5da6cb72bc1"}}
+{
+  "2021-08-04": {
+    "id": "SW_085",
+    "dbfId": 64894,
+    "name": "뒷골목의 서약",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>도발</b> 능력이 있는 마귀를 소환합니다. 능력치는 내 손에 있는 카드 수와 같습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"덕분에 이 골목에도 빛이 들어오겠어요.\"",
+    "spellSchool": "SHADOW",
+    "portrait": "HS23-009_S.tif:f4d8bc28df8548c1801af95b43daedd3",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 67810
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_085.png"
+  }
+}

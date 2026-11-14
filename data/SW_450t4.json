@@ -1,1 +1,66 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_450t4","dbfId":67550,"name":"비전술사 던그래스프","type":"MINION","cardClass":"MAGE","collectible":false,"cost":5,"text":"<b>전투의 함성:</b>\n이번 게임 동안\n<b>주문 공격력 +3</b>을\n얻습니다.","attack":7,"health":7,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS23-121_M.tif:5c92e19f6b1946edb00d8db3407f7d61","set":"STORMWIND","nativeTags":[{"id":45,"name":"생명력","value":7},{"id":47,"name":"공격력","value":7},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":1},{"id":192,"name":"주문 공격력","value":1},{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":4},{"id":218,"name":"전투의 함성","value":1}],"races":[],"race":"","classes":[],"art":"art/SW_450t4.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-121_M.tif:5c92e19f6b1946edb00d8db3407f7d61","goldenMaterial":"SW_450t4_PremiumCard.mat:5c5f02d06b693134fbb82696b5f9dd7d","goldenAnimation":"SW_450t4_PremiumCard.asset:69f0058bc4813034493646e532423f5b"}}
+{
+  "2021-08-04": {
+    "id": "SW_450t4",
+    "dbfId": 67550,
+    "name": "비전술사 던그래스프",
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "collectible": false,
+    "cost": 5,
+    "text": "<b>전투의 함성:</b><br></br>이번 게임 동안<br></br><b>주문 공격력 +3</b>을<br></br>얻습니다.",
+    "attack": 7,
+    "health": 7,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS23-121_M.tif:5c92e19f6b1946edb00d8db3407f7d61",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 7
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 7
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 192,
+        "name": "주문 공격력",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_450t4.png"
+  }
+}

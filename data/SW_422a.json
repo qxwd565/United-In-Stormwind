@@ -1,1 +1,46 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_422a","dbfId":65545,"name":"새로운 나무","type":"SPELL","cardClass":"DRUID","collectible":false,"cost":1,"text":"2/2 나무정령을 소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"NATURE","portrait":"HS23-172_S.tif:846430160b3f4e21bd477addfd01357b","set":"STORMWIND","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5},{"id":1635,"name":"주문 속성","value":4}],"races":[],"race":"","classes":[],"art":"art/SW_422a.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-172_S.tif:846430160b3f4e21bd477addfd01357b","goldenMaterial":"SW_422a_PremiumCard.mat:dc1cf04fad12cb34d863eb47bd6ea0a2","goldenAnimation":"SW_422a_PremiumCard.asset:414e4076937b2f949af75125392e0b61"}}
+{
+  "2021-08-04": {
+    "id": "SW_422a",
+    "dbfId": 65545,
+    "name": "새로운 나무",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "collectible": false,
+    "cost": 1,
+    "text": "2/2 나무정령을 소환합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "NATURE",
+    "portrait": "HS23-172_S.tif:846430160b3f4e21bd477addfd01357b",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 4
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_422a.png"
+  }
+}

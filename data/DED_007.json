@@ -1,1 +1,85 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DED_007","dbfId":65601,"name":"데피아즈단 폭발낚시꾼","type":"MINION","cardClass":"HUNTER","rarity":"COMMON","collectible":true,"cost":5,"text":"<b>전투의 함성:</b> 무작위 적에게 피해를 2 줍니다. 내 야수의 수만큼 반복합니다.","attack":3,"health":2,"durability":0,"armor":0,"flavor":"폭발낚시 강사라고 하더군요.","spellSchool":"","portrait":"HS23-210_M.tif:af317a0646c44fa7891e616f3b20e1fe","set":"STORMWIND","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":3},{"id":200,"name":"종족","value":23},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1},{"id":2534,"name":"게임 태그 2534","value":1}],"races":["UNDEAD","PIRATE"],"race":"언데드, 해적","classes":[],"art":"art/DED_007.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-210_M.tif:af317a0646c44fa7891e616f3b20e1fe","goldenMaterial":"DED_007_PremiumCard.mat:7d50febf59a8542418f55bed1e5c6b44","goldenAnimation":"DED_007_PremiumCard.asset:53a030e45727c5a40b0106534823d8ce"}}
+{
+  "2021-11-03": {
+    "id": "DED_007",
+    "dbfId": 65601,
+    "name": "데피아즈단 폭발낚시꾼",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>전투의 함성:</b> 무작위 적에게 피해를 2 줍니다. 내 야수의 수만큼 반복합니다.",
+    "attack": 3,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "폭발낚시 강사라고 하더군요.",
+    "spellSchool": "",
+    "portrait": "HS23-210_M.tif:af317a0646c44fa7891e616f3b20e1fe",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 23
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 2534,
+        "name": "게임 태그 2534",
+        "value": 1
+      }
+    ],
+    "races": [
+      "UNDEAD",
+      "PIRATE"
+    ],
+    "race": "언데드, 해적",
+    "classes": [],
+    "art": "art/DED_007.png"
+  }
+}

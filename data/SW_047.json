@@ -1,1 +1,82 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_047","dbfId":64546,"name":"대영주 폴드라곤","type":"MINION","cardClass":"PALADIN","rarity":"LEGENDARY","collectible":true,"cost":6,"text":"<b>천상의 보호막</b>, 아군 하수인이 <b>천상의 보호막</b>을 잃은 후에, 내 손에 있는 하수인에게 +5/+5를 부여합니다.","attack":5,"health":5,"durability":0,"armor":0,"flavor":"\"나는 신념과 용기를 통해 스스로를 지켜내리라. 그리고 명예와 희생을 통해 누군가가 내 자리에 오르리라.\"","spellSchool":"","portrait":"HS23-051_M.tif:74b9332c61784744b6baa753d8f10b53","set":"STORMWIND","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":6},{"id":114,"name":"전설 속성","value":1},{"id":194,"name":"천상의 보호막","value":1},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":321,"name":"수집 가능","value":1},{"id":4533,"name":"제작 결과 능력","value":1}],"races":[],"race":"","classes":[],"art":"art/SW_047.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-051_M.tif:74b9332c61784744b6baa753d8f10b53","goldenMaterial":"SW_047_PremiumCard.mat:1d15ee12e8cc1ff4eae73b6cec85484a","goldenAnimation":"SW_047_PremiumCard.asset:196b4a0d6cda4d646af0982023e6dfa3"}}
+{
+  "2021-08-04": {
+    "id": "SW_047",
+    "dbfId": 64546,
+    "name": "대영주 폴드라곤",
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>천상의 보호막</b>, 아군 하수인이 <b>천상의 보호막</b>을 잃은 후에, 내 손에 있는 하수인에게 +5/+5를 부여합니다.",
+    "attack": 5,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"나는 신념과 용기를 통해 스스로를 지켜내리라. 그리고 명예와 희생을 통해 누군가가 내 자리에 오르리라.\"",
+    "spellSchool": "",
+    "portrait": "HS23-051_M.tif:74b9332c61784744b6baa753d8f10b53",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 194,
+        "name": "천상의 보호막",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 4533,
+        "name": "제작 결과 능력",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_047.png"
+  }
+}

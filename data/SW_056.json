@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_056","dbfId":64704,"name":"양념빵 제빵사","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":4,"text":"<b>전투의 함성:</b> 내 손에 있는\n카드의 수만큼 내 영웅의\n생명력을 회복시킵니다.","attack":3,"health":2,"durability":0,"armor":0,"flavor":"맛의 비결은 사랑이에유. 그리고 버터는 잔뜩 넣어주세유.","spellSchool":"","portrait":"HS23-083_M.tif:0cfa4a8241c4475384176a744d85dfb8","set":"STORMWIND","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/SW_056.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-083_M.tif:0cfa4a8241c4475384176a744d85dfb8","goldenMaterial":"SW_056_PremiumCard.mat:c70b0117fd66fa543b75ae0bf36bf8ab","goldenAnimation":"SW_056_PremiumCard.asset:7ef5ffb7e2bd2614a9e3196abd532166"}}
+{
+  "2021-08-04": {
+    "id": "SW_056",
+    "dbfId": 64704,
+    "name": "양념빵 제빵사",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>전투의 함성:</b> 내 손에 있는<br></br>카드의 수만큼 내 영웅의<br></br>생명력을 회복시킵니다.",
+    "attack": 3,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "맛의 비결은 사랑이에유. 그리고 버터는 잔뜩 넣어주세유.",
+    "spellSchool": "",
+    "portrait": "HS23-083_M.tif:0cfa4a8241c4475384176a744d85dfb8",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_056.png"
+  }
+}

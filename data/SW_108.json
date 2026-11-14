@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_108","dbfId":64430,"name":"첫 번째 불꽃","type":"SPELL","cardClass":"MAGE","rarity":"RARE","collectible":true,"cost":1,"text":"하수인에게 피해를 $2 줍니다.\n두 번째 불꽃을 내 손으로 가져옵니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"처음은 그 무엇이든 잊을 수 없죠.","spellSchool":"FIRE","portrait":"HS23-033_S.tif:c2b9c055338448de8dc62ec1bd8eea5f","set":"STORMWIND","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":64432},{"id":1635,"name":"주문 속성","value":2}],"races":[],"race":"","classes":[],"art":"art/SW_108.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-033_S.tif:c2b9c055338448de8dc62ec1bd8eea5f","goldenMaterial":"SW_108_PremiumCard.mat:5f183ee8b2fcdbc4fbe0fce0b99b7070","goldenAnimation":"SW_108_PremiumCard.asset:c1dd9d2019f703e4b94e8548a54e685a"}}
+{
+  "2021-08-04": {
+    "id": "SW_108",
+    "dbfId": 64430,
+    "name": "첫 번째 불꽃",
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 1,
+    "text": "하수인에게 피해를 $2 줍니다.<br></br>두 번째 불꽃을 내 손으로 가져옵니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "처음은 그 무엇이든 잊을 수 없죠.",
+    "spellSchool": "FIRE",
+    "portrait": "HS23-033_S.tif:c2b9c055338448de8dc62ec1bd8eea5f",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 64432
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 2
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_108.png"
+  }
+}

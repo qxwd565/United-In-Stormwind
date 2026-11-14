@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_443","dbfId":64416,"name":"엘레크 탈것","type":"SPELL","cardClass":"PRIEST","rarity":"RARE","collectible":true,"cost":7,"text":"하수인에게 +4/+7과 <b>도발</b>을 부여합니다.\n그 하수인이 죽으면,\n엘레크를 소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"행진하는 분홍 엘레크다!","spellSchool":"","portrait":"HS23-040_S.tif:c03a91f3e8874d27bd293a31743a9a50","set":"STORMWIND","nativeTags":[{"id":48,"name":"마나 비용","value":7},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":64418}],"races":[],"race":"","classes":[],"art":"art/SW_443.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-040_S.tif:c03a91f3e8874d27bd293a31743a9a50","goldenMaterial":"SW_443_PremiumCard.mat:4464dfbd4e443c543a19dea35e4fc0cc","goldenAnimation":"SW_443_PremiumCard.asset:54652bf57e550cf49a9f032606a610e6"}}
+{
+  "2021-08-04": {
+    "id": "SW_443",
+    "dbfId": 64416,
+    "name": "엘레크 탈것",
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 7,
+    "text": "하수인에게 +4/+7과 <b>도발</b>을 부여합니다.<br></br>그 하수인이 죽으면,<br></br>엘레크를 소환합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "행진하는 분홍 엘레크다!",
+    "spellSchool": "",
+    "portrait": "HS23-040_S.tif:c03a91f3e8874d27bd293a31743a9a50",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 64418
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_443.png"
+  }
+}

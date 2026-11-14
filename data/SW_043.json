@@ -1,1 +1,74 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_043","dbfId":64396,"name":"지옥탐식자","type":"MINION","cardClass":"DEMONHUNTER","rarity":"EPIC","collectible":true,"cost":4,"text":"<b>전투의 함성:</b> 지옥 주문을\n뽑습니다. 그 주문의\n비용이 (2) 감소합니다.","attack":4,"health":3,"durability":0,"armor":0,"flavor":"초록색만 먹습니다.","spellSchool":"","portrait":"HS23-071_M.tif:e5dd0fe37eb24e84bcc2655e5914e1a7","set":"STORMWIND","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":14},{"id":200,"name":"종족","value":15},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["DEMON"],"race":"악마","classes":[],"art":"art/SW_043.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-071_M.tif:e5dd0fe37eb24e84bcc2655e5914e1a7","goldenMaterial":"SW_043_PremiumCard.mat:84c525f6a4b0a8c4db57715bd6fb2b05","goldenAnimation":"SW_043_PremiumCard.asset:b1e17e8970e3a684691b35c8d8049c3c"}}
+{
+  "2021-08-04": {
+    "id": "SW_043",
+    "dbfId": 64396,
+    "name": "지옥탐식자",
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>전투의 함성:</b> 지옥 주문을<br></br>뽑습니다. 그 주문의<br></br>비용이 (2) 감소합니다.",
+    "attack": 4,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "초록색만 먹습니다.",
+    "spellSchool": "",
+    "portrait": "HS23-071_M.tif:e5dd0fe37eb24e84bcc2655e5914e1a7",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 15
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DEMON"
+    ],
+    "race": "악마",
+    "classes": [],
+    "art": "art/SW_043.png"
+  }
+}

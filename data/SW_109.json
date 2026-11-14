@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_109","dbfId":64433,"name":"실수투성이 급사","type":"MINION","cardClass":"MAGE","rarity":"EPIC","collectible":true,"cost":7,"text":"<b>전투의 함성:</b> 내 손에서 비용이 가장 높은 주문을 시전합니다.","attack":4,"health":5,"durability":0,"armor":0,"flavor":"안 돼! 내 치즈 소스가!","spellSchool":"","portrait":"HS23-031_M.tif:b17261ba34fe40af883bc4c5b5af97e0","set":"STORMWIND","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":7},{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/SW_109.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-031_M.tif:b17261ba34fe40af883bc4c5b5af97e0","goldenMaterial":"SW_109_PremiumCard.mat:a9ba2aa3168bf0c4c99c3e8f018c9425","goldenAnimation":"SW_109_PremiumCard.asset:05e8629e4c7f053428ada3f1c615fa1e"}}
+{
+  "2021-08-04": {
+    "id": "SW_109",
+    "dbfId": 64433,
+    "name": "실수투성이 급사",
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 7,
+    "text": "<b>전투의 함성:</b> 내 손에서 비용이 가장 높은 주문을 시전합니다.",
+    "attack": 4,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "안 돼! 내 치즈 소스가!",
+    "spellSchool": "",
+    "portrait": "HS23-031_M.tif:b17261ba34fe40af883bc4c5b5af97e0",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_109.png"
+  }
+}

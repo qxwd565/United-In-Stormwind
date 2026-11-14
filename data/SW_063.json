@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_063","dbfId":64711,"name":"전장의 전투대장","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":6,"text":"양옆의 하수인들이 <b>질풍</b>을 얻습니다.","attack":5,"health":5,"durability":0,"armor":0,"flavor":"농장으로! 아니 잠깐만... 광산으로! 아니 잠깐만... 농장을 뺏으려는 속셈이군. 3명은 대장간으로 당장 출격하라!","spellSchool":"","portrait":"HS23-086_M.tif:4f10eb1357b14706938e8aacb2e20743","set":"STORMWIND","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":6},{"id":189,"name":"질풍","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":362,"name":"지속 효과","value":1},{"id":1576,"name":"게임 태그 1576","value":1}],"races":[],"race":"","classes":[],"art":"art/SW_063.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-086_M.tif:4f10eb1357b14706938e8aacb2e20743","goldenMaterial":"SW_063_PremiumCard.mat:9c81031572ceb384e80c23c765a462d8","goldenAnimation":"SW_063_PremiumCard.asset:536ebffccac0ff94ca4bd1247159ce02"}}
+{
+  "2021-08-04": {
+    "id": "SW_063",
+    "dbfId": 64711,
+    "name": "전장의 전투대장",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 6,
+    "text": "양옆의 하수인들이 <b>질풍</b>을 얻습니다.",
+    "attack": 5,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "농장으로! 아니 잠깐만... 광산으로! 아니 잠깐만... 농장을 뺏으려는 속셈이군. 3명은 대장간으로 당장 출격하라!",
+    "spellSchool": "",
+    "portrait": "HS23-086_M.tif:4f10eb1357b14706938e8aacb2e20743",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 189,
+        "name": "질풍",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 362,
+        "name": "지속 효과",
+        "value": 1
+      },
+      {
+        "id": 1576,
+        "name": "게임 태그 1576",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_063.png"
+  }
+}

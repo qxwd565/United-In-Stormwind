@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DED_521","dbfId":65699,"name":"단단히 정신 나간 폭격수","type":"MINION","cardClass":"NEUTRAL","rarity":"EPIC","collectible":true,"cost":8,"text":"<b>전투의 함성:</b> 다른 <b>모든</b> 캐릭터에게 12의 피해를 무작위로 나누어 입힙니다.","attack":9,"health":8,"durability":0,"armor":0,"flavor":"나만 아니면 돼!","spellSchool":"","portrait":"HS23-236_M.tif:9d35942074d843b79519cfd4cdacacea","set":"STORMWIND","nativeTags":[{"id":45,"name":"생명력","value":8},{"id":47,"name":"공격력","value":9},{"id":48,"name":"마나 비용","value":8},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/DED_521.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-236_M.tif:9d35942074d843b79519cfd4cdacacea","goldenMaterial":"DED_521_PremiumCard.mat:1b2914f8b680bda49832dc05c0fb09d6","goldenAnimation":"DED_521_PremiumCard.asset:c3dfda59ac8e8f349a742f06fb2de4fe"}}
+{
+  "2021-11-03": {
+    "id": "DED_521",
+    "dbfId": 65699,
+    "name": "단단히 정신 나간 폭격수",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 8,
+    "text": "<b>전투의 함성:</b> 다른 <b>모든</b> 캐릭터에게 12의 피해를 무작위로 나누어 입힙니다.",
+    "attack": 9,
+    "health": 8,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "나만 아니면 돼!",
+    "spellSchool": "",
+    "portrait": "HS23-236_M.tif:9d35942074d843b79519cfd4cdacacea",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 8
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 9
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 8
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DED_521.png"
+  }
+}

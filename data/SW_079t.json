@@ -1,1 +1,41 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_079t","dbfId":64917,"name":"서부 몰락지대","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":0,"text":"1턴 후에, 무작위 추가 효과를 얻은 2/2 모험가를 소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS23-228_S.tif:37db5d291c1644c08e191b0bdce0d925","set":"STORMWIND","nativeTags":[{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":5},{"id":402,"name":"능력치 숨김","value":1}],"races":[],"race":"","classes":[],"art":"art/SW_079t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-228_S.tif:37db5d291c1644c08e191b0bdce0d925","goldenMaterial":"SW_079t_PremiumCard.mat:652c81de8dac06549af88434a97ed485","goldenAnimation":"SW_079t_PremiumCard.asset:023c6fb12d1d6f64faf7c6ae79daa3c6"}}
+{
+  "2021-08-04": {
+    "id": "SW_079t",
+    "dbfId": 64917,
+    "name": "서부 몰락지대",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 0,
+    "text": "1턴 후에, 무작위 추가 효과를 얻은 2/2 모험가를 소환합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS23-228_S.tif:37db5d291c1644c08e191b0bdce0d925",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 402,
+        "name": "능력치 숨김",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_079t.png"
+  }
+}

@@ -1,1 +1,68 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_091t4","dbfId":67547,"name":"역병뿌리 탬신","type":"MINION","cardClass":"WARLOCK","collectible":false,"cost":5,"text":"<b>전투의 함성:</b> 이번 게임 동안\n내 턴에 내가 받는 피해는\n상대편이 대신 받습니다.","attack":7,"health":7,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS23-196_M.tif:c34dd87593e24a75b4c981d224b56dd3","set":"STORMWIND","nativeTags":[{"id":45,"name":"생명력","value":7},{"id":47,"name":"공격력","value":7},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":9},{"id":200,"name":"종족","value":11},{"id":202,"name":"카드 유형","value":4},{"id":218,"name":"전투의 함성","value":1}],"races":["UNDEAD"],"race":"언데드","classes":[],"art":"art/SW_091t4.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-196_M.tif:c34dd87593e24a75b4c981d224b56dd3","goldenMaterial":"SW_091t4_PremiumCard.mat:6e3139c1f01393d4496f4ef041d3accc","goldenAnimation":"SW_091t4_PremiumCard.asset:373dcc26d76d09d4cbdc7301e6602cba"}}
+{
+  "2021-08-04": {
+    "id": "SW_091t4",
+    "dbfId": 67547,
+    "name": "역병뿌리 탬신",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "collectible": false,
+    "cost": 5,
+    "text": "<b>전투의 함성:</b> 이번 게임 동안<br></br>내 턴에 내가 받는 피해는<br></br>상대편이 대신 받습니다.",
+    "attack": 7,
+    "health": 7,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS23-196_M.tif:c34dd87593e24a75b4c981d224b56dd3",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 7
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 7
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 11
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      }
+    ],
+    "races": [
+      "UNDEAD"
+    ],
+    "race": "언데드",
+    "classes": [],
+    "art": "art/SW_091t4.png"
+  }
+}

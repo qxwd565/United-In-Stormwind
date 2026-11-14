@@ -1,1 +1,46 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_108t","dbfId":64432,"name":"두 번째 불꽃","type":"SPELL","cardClass":"MAGE","collectible":false,"cost":1,"text":"하수인에게 피해를 $2 줍니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"FIRE","portrait":"HS23-034_S.tif:f715d46ab5dd4e4cb9418f218e477932","set":"STORMWIND","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":5},{"id":1635,"name":"주문 속성","value":2}],"races":[],"race":"","classes":[],"art":"art/SW_108t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-034_S.tif:f715d46ab5dd4e4cb9418f218e477932","goldenMaterial":"SW_108t_PremiumCard.mat:b564d671db271e342b945f23907a30c9","goldenAnimation":"SW_108t_PremiumCard.asset:10f97e9ca08527a47ad9bb080f9603eb"}}
+{
+  "2021-08-04": {
+    "id": "SW_108t",
+    "dbfId": 64432,
+    "name": "두 번째 불꽃",
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "collectible": false,
+    "cost": 1,
+    "text": "하수인에게 피해를 $2 줍니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "FIRE",
+    "portrait": "HS23-034_S.tif:f715d46ab5dd4e4cb9418f218e477932",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 2
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_108t.png"
+  }
+}

@@ -1,1 +1,47 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_460","dbfId":65044,"name":"게걸스러운 무리","type":"SPELL","cardClass":"HUNTER","rarity":"RARE","collectible":true,"cost":0,"text":"적 하수인을 선택합니다. 내 하수인들이 그 하수인을 공격하고, 죽은 아군 하수인들을 내 손으로 다시 가져옵니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"쥐 떼를 상대할 횃불은 꼭 챙기세요.","spellSchool":"","portrait":"HS23-202_S.tif:53748bf3cbd3402cb079e8d4cddda91c","set":"STORMWIND","nativeTags":[{"id":199,"name":"직업","value":3},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/SW_460.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-202_S.tif:53748bf3cbd3402cb079e8d4cddda91c","goldenMaterial":"SW_460_PremiumCard.mat:d08c475021e5eba44a7233f9d210468e","goldenAnimation":"SW_460_PremiumCard.asset:fcb67789e95f5f74ab647805778400cc"}}
+{
+  "2021-08-04": {
+    "id": "SW_460",
+    "dbfId": 65044,
+    "name": "게걸스러운 무리",
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 0,
+    "text": "적 하수인을 선택합니다. 내 하수인들이 그 하수인을 공격하고, 죽은 아군 하수인들을 내 손으로 다시 가져옵니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "쥐 떼를 상대할 횃불은 꼭 챙기세요.",
+    "spellSchool": "",
+    "portrait": "HS23-202_S.tif:53748bf3cbd3402cb079e8d4cddda91c",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_460.png"
+  }
+}

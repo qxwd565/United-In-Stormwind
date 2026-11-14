@@ -1,1 +1,56 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_052t7","dbfId":67602,"name":"숨긴 회전톱날","type":"WEAPON","cardClass":"ROGUE","collectible":false,"cost":1,"text":"<b>죽음의 메아리:</b>\n무작위 적 하수인에게\n이 무기를 던집니다.","attack":3,"health":0,"durability":2,"armor":0,"flavor":"","spellSchool":"","portrait":"HS23-112_W.tif:05cdee6b29d14a59aa607a281be052fc","set":"STORMWIND","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":7},{"id":217,"name":"죽음의 메아리","value":1}],"races":[],"race":"","classes":[],"art":"art/SW_052t7.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-112_W.tif:05cdee6b29d14a59aa607a281be052fc","goldenMaterial":"SW_052t7_PremiumCard.mat:b87a530f901cb014dac28c8dc7058397","goldenAnimation":"SW_052t7_PremiumCard.asset:1e642236adc5b8c4d940fdcf131625dd"}}
+{
+  "2021-08-04": {
+    "id": "SW_052t7",
+    "dbfId": 67602,
+    "name": "숨긴 회전톱날",
+    "type": "WEAPON",
+    "cardClass": "ROGUE",
+    "collectible": false,
+    "cost": 1,
+    "text": "<b>죽음의 메아리:</b><br></br>무작위 적 하수인에게<br></br>이 무기를 던집니다.",
+    "attack": 3,
+    "health": 0,
+    "durability": 2,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS23-112_W.tif:05cdee6b29d14a59aa607a281be052fc",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 7
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_052t7.png"
+  }
+}

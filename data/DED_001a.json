@@ -1,1 +1,74 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DED_001a","dbfId":65581,"name":"상어 변신","type":"MINION","cardClass":"DRUID","rarity":"COMMON","collectible":false,"cost":1,"text":"<b>속공</b>","attack":3,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS23-186_M.tif:a0c3b21cf948445d93aaa315f2fc2f67","set":"STORMWIND","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":2},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":791,"name":"속공","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/DED_001a.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-186_M.tif:a0c3b21cf948445d93aaa315f2fc2f67","goldenMaterial":"DED_001a_PremiumCard.mat:aa437abd0e40a4e42bf4e7dbba4de37c","goldenAnimation":"DED_001a_PremiumCard.asset:e2e65b841212ba14aaac8e86aed2267a"}}
+{
+  "2021-11-03": {
+    "id": "DED_001a",
+    "dbfId": 65581,
+    "name": "상어 변신",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "rarity": "COMMON",
+    "collectible": false,
+    "cost": 1,
+    "text": "<b>속공</b>",
+    "attack": 3,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS23-186_M.tif:a0c3b21cf948445d93aaa315f2fc2f67",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/DED_001a.png"
+  }
+}

@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_069","dbfId":64717,"name":"열정적인 은행원","type":"MINION","cardClass":"NEUTRAL","rarity":"EPIC","collectible":true,"cost":3,"text":"내 턴이 끝날 때, 내 덱에 있는 카드를 맡아둡니다.\n<b>죽음의 메아리:</b> 맡아둔 카드들을 내 손으로 가져옵니다.","attack":2,"health":3,"durability":0,"armor":0,"flavor":"아 퇴근하고 싶다. 더 격렬하게 퇴근하고 싶다.","spellSchool":"","portrait":"HS23-091_M.tif:e9d879d000bc48b5ac021cb54d7fa4c1","set":"STORMWIND","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":2},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["DRAENEI"],"race":"드레나이","classes":[],"art":"art/SW_069.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-091_M.tif:e9d879d000bc48b5ac021cb54d7fa4c1","goldenMaterial":"SW_069_PremiumCard.mat:50a32205a0727774dafc7330131403d9","goldenAnimation":"SW_069_PremiumCard.asset:3abab9dcd1362f840b03ab7ce417013c"}}
+{
+  "2021-08-04": {
+    "id": "SW_069",
+    "dbfId": 64717,
+    "name": "열정적인 은행원",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 3,
+    "text": "내 턴이 끝날 때, 내 덱에 있는 카드를 맡아둡니다.<br></br><b>죽음의 메아리:</b> 맡아둔 카드들을 내 손으로 가져옵니다.",
+    "attack": 2,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "아 퇴근하고 싶다. 더 격렬하게 퇴근하고 싶다.",
+    "spellSchool": "",
+    "portrait": "HS23-091_M.tif:e9d879d000bc48b5ac021cb54d7fa4c1",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DRAENEI"
+    ],
+    "race": "드레나이",
+    "classes": [],
+    "art": "art/SW_069.png"
+  }
+}

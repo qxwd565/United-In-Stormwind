@@ -1,1 +1,92 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SW_428","dbfId":64291,"name":"공원 방황","type":"SPELL","cardClass":"DRUID","rarity":"LEGENDARY","collectible":true,"cost":1,"text":"<b>퀘스트 전개:</b> 내 영웅이\n공격력을 +4 얻어야 합니다.\n<b>보상:</b> 방어도를 +5 얻습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"안내 방송 드립니다. 타우렌 드루이드의 보호자께서는 즉시 미아보호소로 와 주시기 바랍니다.","spellSchool":"","portrait":"HS23-023_S.tif:9426d5d0538c496bb43541f6e691f503","set":"STORMWIND","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":5},{"id":321,"name":"수집 가능","value":1},{"id":535,"name":"퀘스트 완료 조건","value":4},{"id":676,"name":"무작위 선택 제외","value":1},{"id":839,"name":"게임 태그 839","value":1},{"id":1089,"name":"퀘스트 보상 데이터베이스 ID","value":64333},{"id":1725,"name":"퀘스트 전개","value":1},{"id":1992,"name":"퀘스트 전개 최종 보상 ID","value":67884},{"id":1993,"name":"퀘스트 전개 단계","value":1}],"races":[],"race":"","classes":[],"art":"art/SW_428.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS23-023_S.tif:9426d5d0538c496bb43541f6e691f503","goldenMaterial":"SW_428_PremiumCard.mat:b82141a6b5aee2a47a4fd8dfef6b2993","goldenAnimation":"SW_428_PremiumCard.asset:bdd51303b89c09044911f92da2173e25"}}
+{
+  "2021-08-04": {
+    "id": "SW_428",
+    "dbfId": 64291,
+    "name": "공원 방황",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>퀘스트 전개:</b> 내 영웅이<br></br>공격력을 +4 얻어야 합니다.<br></br><b>보상:</b> 방어도를 +5 얻습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "안내 방송 드립니다. 타우렌 드루이드의 보호자께서는 즉시 미아보호소로 와 주시기 바랍니다.",
+    "spellSchool": "",
+    "portrait": "HS23-023_S.tif:9426d5d0538c496bb43541f6e691f503",
+    "set": "STORMWIND",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 535,
+        "name": "퀘스트 완료 조건",
+        "value": 4
+      },
+      {
+        "id": 676,
+        "name": "무작위 선택 제외",
+        "value": 1
+      },
+      {
+        "id": 839,
+        "name": "게임 태그 839",
+        "value": 1
+      },
+      {
+        "id": 1089,
+        "name": "퀘스트 보상 데이터베이스 ID",
+        "value": 64333
+      },
+      {
+        "id": 1725,
+        "name": "퀘스트 전개",
+        "value": 1
+      },
+      {
+        "id": 1992,
+        "name": "퀘스트 전개 최종 보상 ID",
+        "value": 67884
+      },
+      {
+        "id": 1993,
+        "name": "퀘스트 전개 단계",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SW_428.png"
+  }
+}
